@@ -194,6 +194,8 @@
 {
     margin-top: 32px;
     padding: 29px 24px;
+    width: 1183px;
+    height: 256px;
     border: 1px solid #D5D6D8;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
     border-radius: 16px;
@@ -218,4 +220,271 @@
 {
     font-size: 20px;
     font-weight: 500;
+}
+
+/** opinion style */
+
+.opinion
+{
+    margin: 80px 160px;
+}
+
+.Opinion-title
+{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.opinion-table
+{
+    width: 97%;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 32px;
+    border-radius: 16px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #FFFFFF;
+    
+  }
+
+  thead {
+    background-color: #C6E4D6;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 24px;
+    border: 1px solid #e0e0e0;
+  }
+
+  th {
+    font-weight: bold;
+    font-size: 20px;
+    /* display:inline-block;
+    justify-content: space-between; */
+  }
+
+  td {
+    font-size: 16px;
+  }
+
+  .span{
+    width:1017px;
+  }
+
+  .select-opt
+  {
+    display:inline-block;
+  }
+
+  select {
+    padding: 8px 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgba(9, 161, 92, 0.15);
+  }
+
+  select:hover {
+    background-color: #c3dec3;
+  }
+
+  /* recent-news style */
+  .recent-news
+  {
+    margin: 80px 160px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  .news-items
+  {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    gap: 24px;
+    /* margin: 32px auto; */
+  }
+  .text
+  {
+    margin-bottom: 32px;
+  }
+  .image
+  {
+    width: 408px;
+    height: 306px;
+    border: none;
+    border-radius: 24px;
+  }
+  .news-title
+  {
+    font-size: 32px;
+    font-weight: bold;
+  }
+  .new-item1
+  {
+    border: none;
+    border-radius: 24px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 48px;
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+  }
+  .new-item2
+  {
+    border: none;
+    border-radius: 24px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 48px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    gap: 32px;
+  }
+  .news-btn
+{
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding: 11px 20px;
+    width: 139px;
+    height: 48px;
+    border: none;
+    border-radius: 8px;
+    margin: 24px auto 8px auto;
+}
+
+/* donate style */
+
+.donate
+{
+    margin: 80px 160px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    gap: 32px;
+}
+.donate-today
+{
+    text-align: center;
+}
+.Donate-title
+{
+    font-size: 40px;
+    font-weight: bold;
+}
+.taka
+{
+    display: flex;
+    justify-content: space-between;
+    width: 1071px;
+    height: 128px;
+    gap: 24px;
+}
+.tk
+{
+    margin:0px;
+}
+.tk-box
+{
+    width: 240px;
+    height: 44px;
+    padding: 40px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 16px;
+    border: 1px solid #D5D6D8;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.amount
+{
+    border-radius: 10px;
+    border: 1px solid #D5D6D8;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    text-align: center;
+    width: 1032px;
+    height: 64px;
+    font-size: 20px;
+    color: #0E0E0E;
+}
+.amount:focus {
+    border-color: #006A50;
+    outline: none; 
+}
+
+/* subscription style */
+
+.subscription
+{
+    margin: 80px 160px;
+    display: flex;
+    justify-content: center;
+    
+    flex-direction: column;
+    gap: 32px;
+}
+.subscribe
+{
+    padding: 80px 100px;
+    border-radius: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* width: 97%; */
+}
+.subscribe-news
+{
+    text-align: center;
+    width: 622px;
+}
+.Subscribe-title
+{
+    font-size: 40px;
+    font-weight: bold;
+}
+.subscription-input {
+    display: flex;
+    background-color: white;
+    border-radius: 9px;
+    overflow: hidden;
+    margin-bottom: 22px;
+    width: 622px;
+}
+.subscription-input input[type="email"] {
+    border: none;
+    padding: 15px 20px;
+    flex-grow: 1;
+    font-size: 16px;
+    color: #0E0E0E;
+    
+}
+.sub-btn {
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+.intro-btn:hover, .news-btn:hover, .sub-btn:hover
+{
+    background-color: #0b4b3a;
+    color: #FFFFFF;
+}
+.sign:hover
+{
+    background-color: #c3dec3;
+}
+.vis-btn:hover
+{
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
+    color: #FFFFFF;
 }
