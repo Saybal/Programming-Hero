@@ -479,7 +479,7 @@ table {
     background-color: #0b4b3a;
     color: #FFFFFF;
 }
-.sign:hover
+.sign:hover, .tk-box:hover
 {
     background-color: #c3dec3;
 }

@@ -1,0 +1,661 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+*{
+    font-family: "Quicksand", serif;
+    
+}
+
+body
+{
+    margin: 0;
+}
+header
+{
+    margin: 0 7.344vw;
+    margin-bottom: 1.344vw;
+}
+section
+{
+    margin: 0 7.344vw;
+    margin-bottom: 4.344vw;
+}
+footer
+{
+    margin: 0;
+}
+
+/* Color Plat */
+
+/* font-color */
+.orange
+{
+    color: #FEA301;
+}
+.sky-blue
+{
+    color: #01ACFD;
+}
+.paste
+{
+    color: #05D4DF;
+}
+.beguni
+{
+    color: #5D58EF;
+}
+.garo-beguni
+{
+    color: #8700FF;
+}
+.white
+{
+    color: #ffffff;
+}
+
+/* background-color */
+
+.orange-bg
+{
+    background-color: #FEA301;
+}
+.grass-bg
+{
+    background-color: #95B226;
+}
+.beguni-bg
+{
+    background-color: #5D58EF;
+}
+.paste-bg
+{
+    background-color: #05D4DF;
+}
+.sky-blue-bg
+{
+    background-color: #01ACFD;
+}
+/* section-bar style */
+
+.nav-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.logo
+{
+    width: 15.625rem;
+    height: 3.875rem;
+    font-size: 1.28rem;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    gap: 0.5rem
+}
+.nav-bar
+{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+.nav-bar>li>a
+{
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+.conatct-info
+{
+    border: none;
+    font-size: 1.25rem;
+    font-weight: bold;
+    border-radius: 12px;
+    padding: 10px 60px;
+    color: #FFFF;
+}
+.menu-icon, .horizontal
+{
+    display: none;
+}
+/* Marque Section design */
+.marquee-container {
+    background-color: #01ACFD;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0;
+    border: none;
+}
+/* section style */
+.introduction
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 3.125rem;
+}
+.text
+{
+    width: 40rem;
+}
+.heading
+{
+    margin: 0.5rem 0;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+.description
+{
+    font-size: 1.25rem;
+    height: 3.125rem;
+    font-weight: 400;
+}
+.black-primary-button
+{
+    background-color: black;
+    color: white;
+    padding: 10px 47px;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 0.75rem;
+}
+
+/* Standard Curriculum design */
+
+.standard-curriculum
+{
+    margin: 0;
+    background-image: url("/assets/bg.png");
+    background-position: cover center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    gap: 5rem;
+}
+.title
+{
+    font-size: 2.875rem;
+    font-weight: bold;
+}
+.cards
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 4.8125rem;
+}
+.card-padding
+{
+    padding: 2rem;
+}
+.contant
+{
+    text-align: center;
+}
+.card-title
+{
+    margin: 2.0925rem 0;
+    font-size: 1.5625rem;
+    font-weight: bold;
+}
+.card-contant
+{
+    margin: 2.0925rem 0;
+    font-size: 1rem;
+}
+.kinder-card
+{
+    /* width: 23rem; */
+    background-image: linear-gradient(to bottom, #DEF5FF, #FFFFFF 40%);
+    border-radius: 1.1875rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.elementary-card
+{
+    /* width: 23rem; */
+    background-image: linear-gradient(to bottom, #FFF4DC, #FFFFFF 40%);
+    border-radius: 1.1875rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.middle-card
+{
+    /* width: 23rem; */
+    background-image: linear-gradient(to bottom, #EEE1FF, #FFFFFF 40%);
+    border-radius: 1.1875rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.read-more
+{
+    text-decoration: none;
+    font-weight: bold;
+}
+.switch-button
+{
+    display: flex;
+    margin-bottom: 4.344vw;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.circle-btn
+{
+    width: 3.75rem;
+    height: 3.75rem;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 32px;
+}
+
+/* Our story design */
+
+.our-stories
+{
+    margin: 0;
+    background: linear-gradient(to top, #fea10145, #FFFFFF 100%), url("/assets/bg.png");
+    background-position: cover;
+    
+}
+.container
+{
+    margin: 0 7.344vw;
+    /* margin-bottom: 4.344vw; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.container-2
+{
+    margin: 0 7.344vw;
+    
+}
+.title
+{
+    margin-bottom: 5rem;
+}
+.story-cards
+{
+    display:grid;
+    grid-template-columns: repeat(4, 19rem);
+    gap: 2.170625rem;
+}
+.story-card-1
+{
+    grid-column: span 2;
+    grid-row: span 2; 
+}
+.story-card-1, .story-card
+{
+    border-radius: 1rem;
+    background-color: #FFFFFF;
+}
+.text-container
+{
+    padding: 2.4375rem 4.3125rem 2.4375rem 2.4375rem;
+    z-index: 1;
+}
+.text-container-min
+{
+    padding: 2.25rem 2.4375rem 0.9375rem 2.4375rem;
+    z-index: 1;
+}
+
+.date-1
+{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:-4.25rem;
+    color: #FFFFFF;
+    width: 10.906rem;
+    height: 3rem;
+    border-radius: 47.93px;
+}
+.story-title
+{
+    width: 25.15rem;
+    font-size: 1.5rem;
+    margin: 0.264rem 0 0.264rem 0;
+}
+.story-title-min
+{
+    width: 12.3775rem;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1rem;
+    font-weight: bold;
+    /* margin: 1.4375rem; */
+}
+.card-image
+{
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+    z-index: 1;
+}
+.str-btn
+{
+    margin: 5rem 0;
+}
+
+/* About Section design */
+
+.about
+{
+    padding: 7.6875rem 14.255625rem 10.875rem 8.75rem;
+}
+.about-container
+{
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    gap: 10rem;
+    align-items: top;
+}
+.logo-about
+{
+    margin: 0;
+    display:flex;
+    gap:0.6875rem;
+    align-items: center;
+}
+.logo-about>img
+{
+    width: 5.1875rem;
+    height: 5.1875rem;
+}
+.about-title
+{
+    margin: 0;
+    font-size: 2.6875rem;
+    font-weight: bold;
+}
+.school
+{
+    width: 9.81rem;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+.about-school
+{
+    width: 9.81rem;
+}
+.about-school>ul
+{
+    padding: 0;
+}
+.about-school>ul>li
+{
+    list-style: none;
+    margin: 1.25rem 0;
+    font-size: 1.25rem;
+}
+.keep-touch-title
+{
+    width: 11.125rem;
+    font-weight: bold;
+    font-size: 1.625rem;
+}
+.social-media
+{
+    display: flex;
+    justify-content: space-between;
+    gap: 0.6875rem;
+}
+/* small devices */
+
+@media screen and (max-width: 576px) {
+
+    section
+    {
+        margin-bottom: 14.344vw;
+    }
+
+    /* nav-section responsive design */
+
+    .nav-section {
+        height: 69px;
+        gap: 1rem;
+    }
+    .logo {
+        width: 10rem;
+        height: 2.5rem;
+        font-size: 1rem;
+    }
+    .nav-bar, .contact {
+        display: none;
+    }
+    .menu-icon {
+        display: flex;
+        flex-direction: column;
+        gap: 4.5px;
+        height: 20px;
+        cursor: pointer;
+    }
+      
+    .menu-icon .line {
+        width: 25px;
+        height: 3px;
+        background-color: black;
+    }
+    .horizontal{
+        display: block;
+        height: 2px;
+        background-color: #f5a623;
+        border: none;
+    }
+
+    /* main section design */
+
+    /* introduction part */
+    .introduction
+    {
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center; 
+        text-align: center;
+        gap: 1rem;
+        
+    }
+    .text
+    {
+        width: 100%;
+    }
+    .heading
+    {
+        font-size: 8vw;
+    }
+    .description
+    {
+        font-size: 3.5vw;
+        margin: 1.7rem 0;
+    }
+    .boy
+    {
+        width: 100%;
+    }
+
+    /* standard curriculum */
+    .standard-curriculum
+    {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        gap: 1rem;
+        background-image: none;
+    }
+    .title
+    {
+        font-size: 7vw;
+    }
+    .cards
+    {
+        flex-direction: column;
+        gap: 2rem;
+    }
+    .card-padding
+    {
+        padding: 1rem;
+    }
+    .contant
+    {
+        text-align: center;
+    }
+    .card-title
+    {
+        /* margin: 1rem 0; */
+        font-size: 5vw;
+    }
+    .card-contant
+    {
+        margin: 1rem 0;
+        font-size: 3vw;
+    }
+    .read-more
+    {
+        font-size: 3vw;
+    }
+    .switch-button
+    {
+        display: none;
+    }
+
+    /* Our story design */
+    
+    .container
+    {
+        /* width: 100%; */
+        margin: 7vw 5vw;
+        margin-bottom: 0;
+        justify-content: center;
+    }
+    .title
+    {
+        font-size: 6vw;
+        margin-bottom: 3vw;
+    }
+    .story-card-1
+    {
+        display: none;
+    }
+    .story-cards
+    {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap:0.5rem;
+        
+    }
+    
+    .story-card
+    {
+        width:10.83rem;
+        height:11.23rem;
+        font-size: 0.85rem;
+        overflow: hidden;
+    }
+    .card-image
+    {
+        width: 100%;
+        height: auto;
+        /* object-fit: cover; */
+    }
+    .date-1 {
+        width:7.5rem;
+        height:1.83rem;
+        font-size: 0.57rem;
+        margin: -39px 0;
+        font-size: 11px;
+        /* color: #6c757d; */
+        font-weight: bold;
+    }
+    .story-title-min {
+        font-size: 0.608125rem;
+        width: 8.378rem;
+        margin: 0;
+        /* color: #333; */
+        
+    }
+    .text-container-min
+    {
+        padding: 1.375rem;
+        padding-bottom: 2.35rem;
+    }
+    .str-btn
+    {
+        margin: 5vw 0;
+    }
+
+    /* About Section design */
+    
+    .about
+    {
+        padding: 4rem 1rem;
+        /* padding: 0; */
+    }
+    .about-container
+    {
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 1rem;
+    }
+    .logo-about
+    {
+        margin: 0;
+        display:flex;
+        gap:0.6875rem;
+        align-items: center;
+    }
+    .logo-about>img
+    {
+        width: 4.375rem;
+        height: 4.375rem;
+    }
+    .about-title
+    {
+        font-size: 2.25rem;
+        font-weight: bold;
+    }
+    .about-description
+    {
+        font-size: 1rem;
+        padding: 0.5rem;
+    }
+    .about-school
+    {
+        padding: 0.5rem;
+    }
+    .school, .keep-touch-title
+    {
+        font-size: 1.25rem;
+    }
+    .school li
+    {
+        font-size: 1rem;
+    }
+    .social-media
+    {
+        justify-content: left;
+        gap: 0.6785rem;
+
+    }
+    .social-logo
+    {
+        width: 2rem;
+        height: 2rem;
+    }
+    
+    
+}
