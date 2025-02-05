@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daisy UI Test</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.23/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <h1>Hello, we're using DaisyUI</h1>
+    <button class="btn">Click Me</button>
+    <button class="btn btn-primary">Click Me</button>
+    <details class="dropdown">
+        <summary class="btn m-1">open or close</summary>
+        <ul class="menu dropdown-content bg-base-100 rounded-box z-[1] w-52 p-2 shadow">
+          <li><a>Item 1</a></li>
+          <li><a>Item 2</a></li>
+        </ul>
+      </details>
+      <!-- Open the modal using ID.showModal() method -->
+<button class="btn" onclick="my_modal_1.showModal()">Hello Message</button>
+<dialog id="my_modal_1" class="modal">
+  <div class="modal-box">
+    <h3 class="text-lg font-bold">Hello!</h3>
+    <p class="py-4">Press ESC key or click the button below to close</p>
+    <div class="modal-action">
+      <form method="dialog">
+        <!-- if there is a button in form, it will close the modal -->
+        <button class="btn">Close</button>
+      </form>
+    </div>
+  </div>
+</dialog>
+
+<label class="btn btn-circle swap swap-rotate">
+    <!-- this hidden checkbox controls the state -->
+    <input type="checkbox" />
+  
+    <!-- hamburger icon -->
+    <svg
+      class="swap-off fill-current"
+      xmlns="http://www.w3.org/2000/svg"
+      width="20"
+      height="20"
+      viewBox="0 0 512 512">
+      <path d="M64,384H448V341.33H64Zm0-106.67H448V234.67H64ZM64,128v42.67H448V128Z" />
+    </svg>
+  
+    <!-- close icon -->
+    <svg
+      class="swap-on fill-current"
+      xmlns="http://www.w3.org/2000/svg"
+      width="20"
+      height="20"
+      viewBox="0 0 512 512">
+      <polygon
+        points="400 145.49 366.51 112 256 222.51 145.49 112 112 145.49 222.51 256 112 366.51 145.49 400 256 289.49 366.51 400 400 366.51 289.49 256 400 145.49" />
+    </svg>
+  </label>
+
+  <div class="overflow-x-auto">
+    <table class="table">
+      <!-- head -->
+      <thead>
+        <tr>
+          <th>
+            <!-- <label>
+              <input type="checkbox" class="checkbox" />
+            </label> -->
+          </th>
+          <th>Name</th>
+          <th>Job</th>
+          <th>Favorite Color</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- row 1 -->
+        <tr>
+          <th>
+            <label>
+              <input type="checkbox" class="checkbox" />
+            </label>
+          </th>
+          <td>
+            <div class="flex items-center gap-3">
+              <div class="avatar">
+                <div class="mask mask-squircle h-12 w-12">
+                  <img
+                    src="https://img.daisyui.com/images/profile/demo/2@94.webp"
+                    alt="Avatar Tailwind CSS Component" />
+                </div>
+              </div>
+              <div>
+                <div class="font-bold">Hart Hagerty</div>
+                <div class="text-sm opacity-50">United States</div>
+              </div>
+            </div>
+          </td>
+          <td>
+            Zemlak, Daniel and Leannon
+            <br />
+            <span class="badge badge-ghost badge-sm">Desktop Support Technician</span>
+          </td>
+          <td>Purple</td>
+          <th>
+            <button class="btn btn-ghost btn-xs">details</button>
+          </th>
+        </tr>
+        <!-- row 2 -->
+        <tr>
+          <th>
+            <label>
+              <input type="checkbox" class="checkbox" />
+            </label>
+          </th>
+          <td>
+            <div class="flex items-center gap-3">
+              <div class="avatar">
+                <div class="mask mask-squircle h-12 w-12">
+                  <img
+                    src="https://img.daisyui.com/images/profile/demo/3@94.webp"
+                    alt="Avatar Tailwind CSS Component" />
+                </div>
+              </div>
+              <div>
+                <div class="font-bold">Brice Swyre</div>
+                <div class="text-sm opacity-50">China</div>
+              </div>
+            </div>
+          </td>
+          <td>
+            Carroll Group
+            <br />
+            <span class="badge badge-ghost badge-sm">Tax Accountant</span>
+          </td>
+          <td>Red</td>
+          <th>
+            <button class="btn btn-ghost btn-xs">details</button>
+          </th>
+        </tr>
+        <!-- row 3 -->
+        <tr>
+          <th>
+            <label>
+              <input type="checkbox" class="checkbox" />
+            </label>
+          </th>
+          <td>
+            <div class="flex items-center gap-3">
+              <div class="avatar">
+                <div class="mask mask-squircle h-12 w-12">
+                  <img
+                    src="https://img.daisyui.com/images/profile/demo/4@94.webp"
+                    alt="Avatar Tailwind CSS Component" />
+                </div>
+              </div>
+              <div>
+                <div class="font-bold">Marjy Ferencz</div>
+                <div class="text-sm opacity-50">Russia</div>
+              </div>
+            </div>
+          </td>
+          <td>
+            Rowe-Schoen
+            <br />
+            <span class="badge badge-ghost badge-sm">Office Assistant I</span>
+          </td>
+          <td>Crimson</td>
+          <th>
+            <button class="btn btn-ghost btn-xs">details</button>
+          </th>
+        </tr>
+        <!-- row 4 -->
+        <tr>
+          <th>
+            <label>
+              <input type="checkbox" class="checkbox" />
+            </label>
+          </th>
+          <td>
+            <div class="flex items-center gap-3">
+              <div class="avatar">
+                <div class="mask mask-squircle h-12 w-12">
+                  <img
+                    src="https://img.daisyui.com/images/profile/demo/5@94.webp"
+                    alt="Avatar Tailwind CSS Component" />
+                </div>
+              </div>
+              <div>
+                <div class="font-bold">Yancy Tear</div>
+                <div class="text-sm opacity-50">Brazil</div>
+              </div>
+            </div>
+          </td>
+          <td>
+            Wyman-Ledner
+            <br />
+            <span class="badge badge-ghost badge-sm">Community Outreach Specialist</span>
+          </td>
+          <td>Indigo</td>
+          <th>
+            <button class="btn btn-ghost btn-xs">details</button>
+          </th>
+        </tr>
+      </tbody>
+      <!-- foot -->
+      <tfoot>
+        <tr>
+          <th></th>
+          <th>Name</th>
+          <th>Job</th>
+          <th>Favorite Color</th>
+          <th></th>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+</body>
+</html>

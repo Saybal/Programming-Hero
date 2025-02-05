@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Tailwind work</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="./output.css" rel="stylesheet">
+
+    <style>
+        @import "tailwindcss";
+    </style>
+
+    <script>
+        
+        tailwind.config = {
+        theme: {
+            extend: {
+            colors: {
+                clifford: '#da373d',
+            }
+            }
+        }
+        }
+    </script>
+</head>
+<body>
+    <h1 class="text-3xl font-bold underline text-clifford">
+        Hello world!
+    </h1>
+
+    <p class="font-normal text-blue-500 ">
+        Normal text <br>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis veritatis aspernatur praesentium animi non dolorem eius? Eveniet, modi delectus placeat laudantium consequatur repellendus ut impedit, quidem aut illum repudiandae eius.
+    </p>
+    <br>
+    <p class="font-bold ">
+        Big Text <br>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis veritatis aspernatur praesentium animi non dolorem eius? Eveniet, modi delectus placeat laudantium consequatur repellendus ut impedit, quidem aut illum repudiandae eius.
+    </p>
+    <p class="t"></p>
+</body>
+</html>
