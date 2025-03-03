@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blogs</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@3.0.0/dist/full.css" rel="stylesheet" type="text/css" />
+</head>
+<body class="bg-[#F4F7FF] min-h-screen px-[8.75rem] pt-[1.5rem] pb-[3.75rem]">
+
+    <!-- Navbar Section -->
+    <section>
+    <div class="navbar bg-base-100 shadow-sm rounded-lg h-12 pr-6">
+        <div class="flex-1">
+          <a class="btn btn-ghost text-xl"><img src="assets/logo.png" class="w-8"><p class="text-[1.65rem]">Dev<span class="font-bold">Board</span></p></a>
+        </div>
+        <div class="flex justify-between w-[8rem]">
+            <button id="back" class="btn btn-primary">Back to Desk</button>
+        </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Blog Title Section -->
+
+    <section class="my-6 text-center">
+        <p class="text-[2rem] font-bold">Blogs</p>
+    </section>
+
+    <!-- Question Section -->
+
+    <Section class="bg-[#F4F7FF]">
+
+        <!-- Question 01 -->
+        <div class="bg-white p-4 rounded-lg mb-[0.3rem]">
+            <h3 class="font-bold text-[1.25rem]">Question-1: What are the different ways to select an element in the DOM?</h3>
+            
+        </div>
+        <div class="bg-white p-4 mb-8 rounded-b-lg shadow-lg">
+            <p class="text-gray-600 text-[1.25rem]"> <strong>Answer: </strong> There are two ways to select an element in the DOM. They are: <br> 1.getElementById 2.getElementsByClassName</p>
+        </div>
+
+        <!-- Question 02 -->
+        <div class="bg-white p-4 rounded-lg mb-[0.3rem]">
+            <h3 class="font-bold text-[1.25rem]">Question-2: What is the difference between innerHTML, innerText, and textContent?</h3>
+            
+        </div>
+        <div class="bg-white p-4 mb-8 rounded-b-lg shadow-lg">
+            <p class="text-gray-600 text-[1.25rem]"> <strong>Answer: </strong> <br> 1. innerHTML get or set the HTML content inside an element, <br> 2. innerText get or set the text content inside a HTML element. <br> 3. textContent gets or sets the raw text inside an element and hidden elements.</p>
+        </div>
+
+        <!-- Question 03 -->
+        <div class="bg-white p-4 rounded-lg mb-[0.3rem]">
+            <h3 class="font-bold text-[1.25rem]">Question-3: What is event delegation in the DOM?</h3>
+            
+        </div>
+        <div class="bg-white p-4 mb-8 rounded-b-lg shadow-lg">
+            <p class="text-gray-600 text-[1.25rem]"> <strong>Answer: </strong> Event delegation is a technique where the event listener is attached to a parent element innstead of its child elements. Here, event bubbling is used to handling the event efficiently.</p>
+        </div>
+
+        <!-- Question 04 -->
+        <div class="bg-white p-4 rounded-lg mb-[0.3rem]">
+            <h3 class="font-bold text-[1.25rem]">Question-4: What is event bubbling in the DOM?</h3>
+            
+        </div>
+        <div class="bg-white p-4 mb-8 rounded-b-lg shadow-lg">
+            <p class="text-gray-600 text-[1.25rem]"> <strong>Answer: </strong> Event bubbling is a process where an event starts at the target element and then propagates (bubbles up) to its ancestors in the DOM hierarchy.</p>
+        </div>
+    </Section>
+    
+
+    <script src="Scripts/blogs.js"></script>
+    <!-- <script src="Scripts/complete.js"></script> -->
+</body>
+</html>
