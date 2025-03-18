@@ -1,0 +1,94 @@
+/* TODO: Font Style */
+
+/* TODO: Poppins */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/* TODO: Hindi Siliguri */
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap");
+
+.eng-font {
+  font-family: "Poppins", sans-serif;
+}
+
+.ban-font-1 {
+  font-family: "Atma", system-ui;
+}
+
+.ban-font-2 {
+  font-family: "Hind Siliguri", sans-serif;
+}
+
+/* Social Icons */
+.social-icons {
+  display: flex;
+  gap: 20px;
+}
+
+.social-icons a {
+  font-size: 21px;
+  color: black;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: gray;
+}
+
+.Kalo {
+  color: #18181b;
+}
+
+/* source: https://www.w3schools.com/howto/howto_css_loader.asp */
+.loader {
+  border: 16px solid #1a91ff20; /* Light grey */
+  border-top: 16px solid #422ad5; /* Blue */
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.active {
+  /*  btn.classList.add("bg - [#422AD5]","text-white"); */
+  background-color: #422ad5;
+  color: white;
+}
+
+/* Spin Loader */
+
+/* source: https://cssloaders.github.io/ */
+.loader-spin-2 {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  position: relative;
+  left: 60px;
+  top: 33px;
+  color: #422ad5;
+  box-sizing: border-box;
+  animation: animloader 1s linear infinite alternate;
+}
+
+@keyframes animloader {
+  0% {
+    box-shadow: -38px -12px, -14px 0, 14px 0, 38px 0;
+  }
+  33% {
+    box-shadow: -38px 0px, -14px -12px, 14px 0, 38px 0;
+  }
+  66% {
+    box-shadow: -38px 0px, -14px 0, 14px -12px, 38px 0;
+  }
+  100% {
+    box-shadow: -38px 0, -14px 0, 14px 0, 38px -12px;
+  }
+}
