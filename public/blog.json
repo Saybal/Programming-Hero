@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "image": "https://i.ibb.co.com/yBfW2GHn/Bid1-min.png",
+      "currentBidPrice": "$ 2,850",
+      "timeLeft": "2",
+      "bidsCount": 12,
+      "description": "Vintage Leica M3 35mm rangefinder camera in excellent condition. A collector's gem, known for its legendary build quality and iconic design—perfect for enthusiasts and professionals alike."
+    },
+    {
+      "id": 2,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "image": "https://i.ibb.co.com/5hbFrMG3/Bid2-min.png",
+      "currentBidPrice": "$ 2,850",
+      "timeLeft": "3",
+      "bidsCount": 12,
+      "description": "1965 Gibson SG Standard Electric Guitar, a true vintage classic with iconic tone and stunning vintage mojo. All-original parts, fast neck, and powerful PAF-style pickups—perfect for collectors and serious players."
+    },
+    {
+      "id": 3,
+      "title": "Original Apple Macintosh 128K (1984)",
+      "image": "https://i.ibb.co.com/MkQdj7TG/Bid3-min.png",
+      "currentBidPrice": "$ 2,850",
+      "timeLeft": "1",
+      "bidsCount": 12,
+      "description": "Original Apple Macintosh 128K (1984) in great condition—Apple’s first iconic all-in-one personal computer. A rare collector’s item that launched the modern Mac era, complete with vintage charm and historical value."
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "image": "https://i.ibb.co.com/5gLPzV5g/Bid4-min.png",
+      "currentBidPrice": "$ 2,850",
+      "timeLeft": "4",
+      "bidsCount": 12,
+      "description": "Rolex Submariner 16610, a timeless classic combining rugged performance with elegant design. Features the iconic black dial and bezel, automatic movement, and stainless steel Oyster case—perfect for collectors and daily wear."
+    },
+    {
+      "id": 5,
+      "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+      "image": "https://i.ibb.co.com/WN1tdPz3/Bid5-min.png",
+      "currentBidPrice": "$ 2,850",
+      "timeLeft": "2",
+      "bidsCount": 12,
+      "description": "First Edition The Great Gatsby by F. Scott Fitzgerald, a rare literary treasure from 1925. An iconic piece of American literature, perfect for collectors and serious bibliophiles."
+    },
+    {
+      "id": 6,
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "image": "https://i.ibb.co.com/fYbHRN2J/Bid6-min.png",
+      "currentBidPrice": "$ 2,850",
+      "timeLeft": "0",
+      "bidsCount": 12,
+      "description": "Mid-Century Modern Eames Lounge Chair and Ottoman, an iconic design by Charles & Ray Eames. Timeless comfort meets sleek style—crafted with molded plywood and rich leather, perfect for any sophisticated space."
+    },
+    {
+      "id": 7,
+      "title": "Banksy Original Screen Print",
+      "image": "https://i.ibb.co.com/jPRzzHWL/Bid7-min.png",
+      "currentBidPrice": "$ 2,850",
+      "timeLeft": "3",
+      "bidsCount": 12,
+      "description": "Original Screen Print, authenticated and highly collectible. A rare opportunity to own a piece of provocative street art from one of the world’s most influential contemporary artists."
+    }
+  ]
+  
