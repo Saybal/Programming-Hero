@@ -1,0 +1,31 @@
+*********TAILWIND CSSS***********
+
+#paste in cmd
+npm install -D tailwindcss@3 postcss autoprefixer
+npx tailwindcss init -p
+
+# Update content in tailwind.config.js
+ content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+
+# Paste in index.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#paste in cmd
+npm run dev
+
+
+************DAISYUI************
+
+#Paste in cmd
+npm i -D daisyui@latest
+
+#Paste "types" folder in project
+# Write in tailwind.config.js
+import daisyui from "daisyui";
+plugins: [daisyui],
+

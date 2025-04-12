@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <link rel="stylesheet" href="CSS/font.css">
+
+    <!--  -->
+    <title>English জানালা</title>
+</head>
+<body>
+    
+    <!-- Main Page Section -->
+    <section id="banner-page" class="flex flex-col">
+        <div class="flex justify-between items-center pl-[4rem] pr-[2rem]">
+            <div>
+                <h1 class="text-6xl font-bold eng-font"><span class="text-[#00BCFF]">English </span>is Easy!!</h1>
+                <p class="ban-font-2 text-[#18181B] mt-6 mb-7">আজ থেকেই আপনার ভাষা শেখার যাত্রা শুরু করুন। আপনি যদি নতুন হন অথবা <br> আপনার দক্ষতা বাড়াতে চান, আমাদের Interactive Lessons আপনাকে নিয়ে <br> যাবে অন্য একটি Level এ</p>
+    
+                <!-- Information Section -->
+                <div class="flex flex-col">
+                
+                    <label class="input validator">
+                        <svg class="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g stroke-linejoin="round" stroke-linecap="round" stroke-width="2.5" fill="none" stroke="currentColor"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></g></svg>
+                        <input id="name" type="input" required placeholder="Enter Your Name" pattern="[A-Za-z][A-Za-z0-9\-]*" minlength="3" maxlength="30" title="Only letters, numbers or dash" />
+                    </label>
+                
+                    <label class="input validator my-5">
+                        <svg class="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g stroke-linejoin="round" stroke-linecap="round" stroke-width="2.5" fill="none" stroke="currentColor"><path d="M2.586 17.414A2 2 0 0 0 2 18.828V21a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h1a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h.172a2 2 0 0 0 1.414-.586l.814-.814a6.5 6.5 0 1 0-4-4z"></path><circle cx="16.5" cy="7.5" r=".5" fill="currentColor"></circle></g></svg>
+                        <input id="pin" type="number" required placeholder="Enter Login Code (123456)" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must be more than 8 characters, including number, lowercase letter, uppercase letter" />
+                    </label>
+                </form>
+                      
+                <button id="login-btn" class="btn btn-primary w-[7.25rem] snippet">Get Started</button>
+                </div>
+    
+                
+            </div>
+            <div><img src="assets/hero-student.png" alt="Student' Pictture"></div>
+        </div>
+
+        <div class="mt-11">
+            <div class="flex justify-between px-[5rem] py-[2.25rem] items-end bg-[#F8F8F8]">
+                <!-- Title -->
+                <div>
+                    <p class="flex items-center Kalo eng-font font-semibold text-xl">English <img src="assets/logo.png" alt=""><span class="ban-font-2 font-normal">জানালা</span></p>
+                    <p class="ban-font-2 Kalo eng-font font-semibold text-xl my-2">ইংরেজি শিখুন সহজে</p>
+                    <p class="eng-font Kalo">Providing ED-Tech Applications since 2025</p>
+                </div>
+
+                <!-- Follow Section -->
+
+                <div class="flex flex-col">
+                    <p class="text-[#18181B]">Follow us</p>
+                    <div class="flex items-center social-icons">
+                        <a href="https://www.facebook.com/saybal.roy?mibextid=rS40aB7S9Ucbxw6v" target="_blank"><i class="fab fa-facebook"></i></a>
+                        <a href="https://youtu.be/4A5vQoHerU8?si=L9XCJB7iLFfRqsvW" target="_blank"><i class="fab fa-youtube"></i></a>
+                        <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+    <section id="main-page" class="hidden">
+        <!-- Navbar Section -->
+     <section>
+        <div class="navbar bg-base-100 backdrop-blur-md shadow-sm flex justify-between fixed top-0">
+            <div class="navbar-start">
+              <div class="dropdown">
+                <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /> </svg>
+                </div>
+                
+              </div>
+              <a class="btn btn-ghost text-xl"><p class="flex items-center Kalo eng-font font-semibold text-xl">English <img src="assets/logo.png" alt=""><span class="ban-font-2 font-normal">জানালা</span></p></a>
+            </div>
+            
+            <div class="flex justify-between gap-3">
+                <div class="">
+                    <a href="#FAQ" class="btn border-[#422AD5] bg-white text-[#422AD5] hover:bg-[#422AD5] hover:text-white">
+                        <i class="fa-solid fa-question"></i>
+                        <p class="font-semibold">FAQ</p>
+                    </a>
+                </div>
+                <div class=""> 
+                    <a href="#Learn" class="btn border-[#422AD5] bg-white text-[#422AD5] flex justify-center items-center hover:bg-[#422AD5] hover:text-white">
+                        <i class="fa-solid fa-book-open text-sm"></i>
+                        <p class="font-semibold text-base">Learn</p>
+                    </a>
+                </div>
+                <div class=""> 
+                    <a id="log-out" class="btn border-[#422AD5] bg-white text-[#422AD5] hover:bg-[#422AD5] hover:text-white">
+                        <i class="fa-solid fa-right-from-bracket"></i>
+                        <p class="font-semibold">Log Out</p>
+                    </a>
+                </div>
+            </div>
+            
+          </div>
+     </section>
+
+     <!-- Learning Part Section -->
+      <section  class="text-center mt-25 mx-6">
+        <h1 id="Learn"  class="text-4xl font-bold eng-font scroll-mt-25"><span class="text-[#00BCFF]">Let's</span> Learn Vocabularies</h1>
+
+        <!-- Lesson Buttons -->
+        <div class="flex justify-center m-7">
+            <div id="lesson" class="grid grid-cols-7 items-center gap-5 w-[64.625rem]"></div>
+        </div>
+
+        <!-- Vocabulary section -->
+
+        <div id="vocabulary" class="grid grid-cols-3 gap-4 bg-[#F8F8F8] p-6 rounded-3xl">
+            <div class=" col-span-3 my-[4rem] ">
+                <div class="mb-3">
+                    <h1 class="fa-solid fa-book text-6xl text-[#422AD5] border-3 border-blue-300 rounded-full w-[4rem] h-[10rem] p-10"></h1>
+                </div>
+                <p class="text-base text-[#79716B] font-normal ban-font-2 my-3">আপনি এখনো কোন Lesson Select করেননি</p>
+                <h2 class="ban-font-2 text-4xl font-medium">একটি <span class="eng-font">Lesson Select</span> করুন।</h2>
+            </div>
+
+        </div>
+        <dialog id="word_details" class="modal">
+            <div class="modal-box">
+              <div id="description" class="border-2 border-[#1a91ff10] p-6 rounded-xl">
+                  
+              </div>
+              <div></div>
+              <div class="modal-action">
+                <form method="dialog">
+                  <!-- if there is a button in form, it will close the modal -->
+                  <button class="btn rounded-xl bg-[#422AD5] text-white font-semibold text-lg focus:outline-none focus:ring-0">Complete Learning</button>
+                </form>
+              </div>
+            </div>
+          </dialog>
+      </section>
+
+      <!-- FAQ section -->
+      <section class="mx-6 mb-3">
+        <h1 id="FAQ"  class="flex justify-center text-4xl font-bold eng-font mt-20 scroll-mt-25"><span class="text-[#00BCFF]">Frequently &nbsp </span> Asked Questions</h1>
+        <div class="my-[3rem]">
+            <div class="collapse collapse-plus bg-[#F8F8F8] border border-base-300 rounded-2xl mb-5">
+                <input type="radio" name="my-accordion-3" checked="checked" />
+                <div class="collapse-title font-semibold text-xl">1. How can I start learning English on this website?</div>
+                <div class="collapse-content text-base">Easy 😃.Just pick up our lessons one by one sequentially. Our classes are designed based on beginner to advanced levels. Now, it is your responsibility to be disciplined, patient, and productive. You should learn at least 5 new words from our lessons and try to apply them in your daily language and this is the best way of learning because you can apply your knowledge practically. Finally, you have no choice without passing through a hard way during your lessons but never give up. Only this can bring you success 🤞. </div>
+            </div>
+            <div class="collapse collapse-plus bg-[#F8F8F8] border border-base-300 rounded-2xl mb-5">
+                <input type="radio" name="my-accordion-3" checked="checked" />
+                <div class="collapse-title font-semibold text-xl">2. Is this website free to use?</div>
+                <div class="collapse-content text-base">Yes, this website is Completely free. We have no paid section here. So, you can feel easy to go through our all sections and your success is our honorarium ❤️.</div>
+            </div>
+            <div class="collapse collapse-plus bg-[#F8F8F8] border border-base-300 rounded-2xl mb-5">
+                <input type="radio" name="my-accordion-3" checked="checked" />
+                <div class="collapse-title font-semibold text-xl">3.  Do I need to create an account?</div>
+                <div class="collapse-content text-base">Yes, you have to create an account to your learning journey in our website. Why? Because it will help us to track your progress and provide proper suggestions to improve your learning 💡.</div>
+            </div>
+            <div class="collapse collapse-plus bg-[#F8F8F8] border border-base-300 rounded-2xl mb-5">
+                <input type="radio" name="my-accordion-3" checked="checked" />
+                <div class="collapse-title font-semibold text-xl">4. How can I build my English vocabulary?</div>
+                <div class="collapse-content text-base">We have discussed it slightly in our first question. To elaborate, you can choose a word from any of our lessons and search in google how to and where to use this word in daily life? Or you can also search movie clips by thise word. This helps to realise the expressions of this word. These things you can add to vocabulary</div>
+            </div>
+            <div class="collapse collapse-plus bg-[#F8F8F8] border border-base-300 rounded-2xl mb-5">
+                <input type="radio" name="my-accordion-3" checked="checked" />
+                <div class="collapse-title font-semibold text-xl">5. Do you offer certificates for completed courses?</div>
+                <div class="collapse-content text-base">Yes, we offer certificates for completed courses. After successfully finishing a course, you can download and share your certificate to showcase your achievement.</div>
+            </div>
+        </div>
+         
+      </section>
+
+      <!-- Footer Section -->
+      <section >
+        <div class="mt-11">
+            <div class="flex justify-between px-[5rem] py-[2.25rem] items-end bg-[#F8F8F8]">
+                <!-- Title -->
+                <div>
+                    <p class="flex items-center Kalo eng-font font-semibold text-xl">English <img src="assets/logo.png" alt=""><span class="ban-font-2 font-normal">জানালা</span></p>
+                    <p class="ban-font-2 Kalo eng-font font-semibold text-xl my-2">ইংরেজি শিখুন সহজে</p>
+                    <p class="eng-font Kalo">Providing ED-Tech Applications since 2025</p>
+                </div>
+
+                <!-- Follow Section -->
+
+                <div class="flex flex-col">
+                    <p class="text-[#18181B]">Follow us</p>
+                    <div class="flex items-center social-icons">
+                        <a href="https://www.facebook.com/saybal.roy?mibextid=rS40aB7S9Ucbxw6v" target="_blank"><i class="fab fa-facebook"></i></a>
+                        <a href="https://youtu.be/4A5vQoHerU8?si=L9XCJB7iLFfRqsvW" target="_blank"><i class="fab fa-youtube"></i></a>
+                        <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+      </section>
+    </section>
+
+    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js" crossorigin="anonymous"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> -->
+
+    <script src="Script/load_fetch.js"></script>
+    <script src="Script/login.js"></script>
+
+    
+    
+
+    
+</body>
+</html>
