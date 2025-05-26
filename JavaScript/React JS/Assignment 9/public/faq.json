@@ -1,0 +1,73 @@
+[
+      {
+        "id": "faq001",
+        "question": "What is this platform about?",
+        "answer": "Our platform is designed to help users discover and explore the best mobile applications across various categories. We provide detailed information, user reviews, and recommendations to help you find apps that suit your needs.",
+        "tags": ["platform", "purpose", "overview"],
+        "lastUpdated": "2023-11-15"
+      },
+      {
+        "id": "faq002",
+        "question": "How do I download apps?",
+        "answer": "You can download apps by visiting the official app stores (Google Play Store for Android or Apple App Store for iOS). Click the 'Install' or 'Get' button on the app's page. Some apps may also be available via direct APK downloads (Android only) or enterprise distribution.",
+        "tags": ["download", "install", "apps"],
+        "lastUpdated": "2023-11-10"
+      },
+      {
+        "id": "faq003",
+        "question": "Is there a cost to use these apps?",
+        "answer": "Many apps are free to download and use, but some may offer in-app purchases, subscriptions, or premium versions. Always check the app's pricing details on the app store before downloading. We clearly label free/paid apps in our listings.",
+        "tags": ["pricing", "cost", "free"],
+        "lastUpdated": "2023-11-12"
+      },
+      {
+        "id": "faq004",
+        "question": "How do I update my apps?",
+        "answer": "Apps can be updated manually or automatically:\n1. **Manual**: Open your app store (Google Play/App Store) → Go to 'My Apps' → Tap 'Update' next to each app.\n2. **Automatic**: Enable auto-updates in your app store settings under 'Auto-update apps' (Android) or 'App Updates' (iOS).",
+        "tags": ["updates", "maintenance"],
+        "lastUpdated": "2023-11-05"
+      },
+      {
+        "id": "faq005",
+        "question": "How can I submit an app for review?",
+        "answer": "Developers can submit their apps for review by contacting our team through the 'Submit App' page. Please provide your app's name, category, store link, and a brief description. Our editorial team evaluates apps based on quality, usability, and innovation.",
+        "tags": ["submission", "developers"],
+        "lastUpdated": "2023-10-28"
+      },
+      {
+        "id": "faq006",
+        "question": "How are app ratings calculated?",
+        "answer": "Our ratings are aggregated from multiple sources:\n- User reviews on app stores\n- Expert evaluations\n- Our proprietary algorithm that considers stability, features, and recent updates\nRatings are updated weekly to reflect current performance.",
+        "tags": ["ratings", "reviews"],
+        "lastUpdated": "2023-11-01"
+      },
+      {
+        "id": "faq007",
+        "question": "What should I do if an app isn't working?",
+        "answer": "Try these troubleshooting steps:\n1. Restart the app\n2. Check for updates in your app store\n3. Clear the app's cache (Android: Settings → Apps → [App Name] → Storage → Clear Cache)\n4. Reinstall the app\nIf issues persist, contact the app's support team via their website or app store listing.",
+        "tags": ["troubleshooting", "support"],
+        "lastUpdated": "2023-10-20"
+      },
+      {
+        "id": "faq008",
+        "question": "Are these apps safe to use?",
+        "answer": "We prioritize security by:\n1. Only listing apps from official stores (Google Play/App Store)\n2. Flagging apps with known privacy issues\n3. Reviewing permissions before recommendation\nHowever, always check an app's permissions and reviews before installing.",
+        "tags": ["safety", "security"],
+        "lastUpdated": "2023-11-18"
+      },
+      {
+        "id": "faq009",
+        "question": "Can I request an app to be reviewed?",
+        "answer": "Yes! Users can request app reviews by emailing us at requests@example.com with the app name and why you'd like it reviewed. We prioritize popular and highly requested apps.",
+        "tags": ["requests", "reviews"],
+        "lastUpdated": "2023-10-15"
+      },
+      {
+        "id": "faq010",
+        "question": "How often is the app data updated?",
+        "answer": "Our database refreshes daily with:\n- New app releases\n- Version updates\n- Rating changes\nMajor editorial reviews are updated weekly or when significant app changes occur.",
+        "tags": ["updates", "data"],
+        "lastUpdated": "2023-11-20"
+      }
+    ]
+    

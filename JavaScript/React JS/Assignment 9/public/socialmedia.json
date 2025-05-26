@@ -1,0 +1,418 @@
+[
+    {
+      "id": "app001",
+      "name": "Instagram",
+      "subtitle": "Capture and Share the World's Moments",
+      "developer": "Meta Platforms, Inc.",
+      "thumbnail": "https://imgs.search.brave.com/7t9Q2c9CyCRDebu0oK9i5rOk-XePSnzKRaLntkOuxRU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L2FjZS9zdGFuZGFy/ZC85NzYvY3BzcHJv/ZHBiL0U4MDIvcHJv/ZHVjdGlvbi9fODk2/NDkzOTVfaW5zdGFn/cmFtX2xvZ29fOTc2/LmpwZw",
+      "banner": "https://imgs.search.brave.com/7euETSunhUq6wUbFTmwYM9xArnHH1tN0Kc3mHXxAYuc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmlu/c2lkZXIuY29tLzYx/NWM4MTBhMTcyNWQy/MDAxOGI3ZDk2Yj93/aWR0aD03MDA",
+      "downloads": 5000000000,
+      "category": "Social Media",
+      "rating": 4.5,
+      "description": "Instagram is a visual storytelling platform where users share photos, videos, and stories with creative filters and editing tools. With features like Reels (short videos), IGTV (long-form content), and Shopping integrations, it's become a hub for creators, businesses, and communities. The algorithm personalizes your feed based on interactions, and Explore helps discover new content tailored to your interests.",
+      "features": [
+        "Photo/video sharing with filters",
+        "Stories (24-hour disappearing content)",
+        "Reels (short-form video)",
+        "IGTV for longer videos",
+        "Shopping and creator monetization"
+      ],
+      "reviews": [
+        {
+          "user": "travel_photographer",
+          "rating": 4,
+          "comment": "Best platform for visual storytelling, though the algorithm changes can be frustrating."
+        }
+      ]
+    },
+    {
+      "id": "app002",
+      "name": "TikTok",
+      "subtitle": "Real Short Videos",
+      "developer": "ByteDance Ltd.",
+      "thumbnail": "https://imgs.search.brave.com/8ULR3a2gBrtILLBxOaq27FLktUYiXhC0ZEaxbeWpOOE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9UaWtUb2sv/VGlrVG9rLUxvZ28u/d2luZS5zdmc",
+      "banner": "https://imgs.search.brave.com/U70Ku4bglARKcNEP8AR-QoCXjTi1MImbkyWU-ingx_k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NTdkZTBiYWUyZmNk/NTU1MTlkM2ZlNTAv/NjU3ZGUwYmFlMmZj/ZDU1NTE5ZDQwMTNh/X1doYXRzLWJlaGlu/ZC10aGUtdGlrdG9r/LWxvZ28tLndlYnA",
+      "downloads": 3000000000,
+      "category": "Social Media",
+      "rating": 4.6,
+      "description": "TikTok revolutionized social media with its addictive, algorithm-driven short video feed. Users create 15-60 second clips set to music, with endless creative tools like green screen effects, duets, and transitions. The 'For You Page' (FYP) serves hyper-personalized content, making it easy to go viral. Brands leverage TikTok for marketing, while creators build careers through the Creator Fund and LIVE gifts.",
+      "features": [
+        "Short-form video creation",
+        "Extensive music/sound library",
+        "Duet and Stitch features",
+        "LIVE streaming with gifts",
+        "Hyper-personalized 'For You' feed"
+      ],
+      "reviews": [
+        {
+          "user": "dance_creator",
+          "rating": 5,
+          "comment": "Went from 0 to 100K followers in 3 months—the algorithm rewards creativity!"
+        }
+      ]
+    },
+    {
+      "id": "app003",
+      "name": "Twitter",
+      "subtitle": "What's Happening",
+      "developer": "Twitter, Inc.",
+      "thumbnail": "https://imgs.search.brave.com/drYNn74P_BHh_bKsA2MyxnimA9cVL65_egyO47tc9fI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJx/aHdnL3N0eWxlcy9j/b21tdW5pdHlJY29u/X25hOGd5ZjkzeXRj/NDEuanBnP2Zvcm1h/dD1wanBnJnM9Mjdk/YWE3OWVmNGE1NTJi/NGZkNjNhM2ExMjhk/MDkyMzFkMDExZTgy/Yg",
+      "banner": "https://imgs.search.brave.com/JRlmWIvqAuBbfrvnJYma4sDSVu-zQa8UqT-n4ju1QJ0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9ibG9nL3dw/LWNvbnRlbnQvdXBs/b2Fkcy9zaXRlcy81/LzIwMjIvMDQvdHdp/dHRlcl9iYW5uZXJz/X2NvdmVyLmpwZz93/PTEyNTAmaD0xMTIw/JmNyb3A9MQ",
+      "downloads": 1000000000,
+      "category": "Social Media",
+      "rating": 4.1,
+      "description": "Twitter is the global town square for real-time conversations, news, and trends. Users post 'tweets' (280-character messages), engage via replies/retweets, and follow topics with hashtags. Spaces (audio chat rooms) and Communities foster deeper discussions. Journalists, politicians, and celebrities use Twitter to break news, while Threads allow longer-form storytelling. The platform struggles with moderation but remains indispensable for public discourse.",
+      "features": [
+        "Real-time text updates",
+        "Trending topics/hashtags",
+        "Spaces (audio chat rooms)",
+        "Threads for long-form content",
+        "Lists for curated timelines"
+      ],
+      "reviews": [
+        {
+          "user": "news_junkie",
+          "rating": 3,
+          "comment": "Best for breaking news, but the toxicity can be exhausting."
+        }
+      ]
+    },
+    {
+      "id": "app004",
+      "name": "Discord",
+      "subtitle": "Your Place to Talk and Hang Out",
+      "developer": "Discord Inc.",
+      "thumbnail": "https://imgs.search.brave.com/79gSAO3fU4RcomLqGgMFbnN8z_OQiMvR97l6Uo9IswI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmIyMjYxZjAzOGFh/ZDRkM2VkN2NhNDgu/cG5n",
+      "banner": "https://imgs.search.brave.com/uM7NIRzaoglbYvPb33pXbHtGvJuZKR66vQkvjL6Bw0w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YWxwaHIuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA4/L0Rpc2NvcmQtQWRk/LVJlYWN0aW9uLVJv/bGVzLnBuZw",
+      "downloads": 500000000,
+      "category": "Social Media",
+      "rating": 4.7,
+      "description": "Discord started as a gamer's chat app but evolved into a versatile platform for communities. Servers host text/voice channels for topics ranging from anime to stock trading. Features include screen sharing, stage events, and bot integrations. Nitro subscribers get HD streaming and custom emojis. With end-to-end encryption and moderation tools, it's a haven for niche groups.",
+      "features": [
+        "Voice/text chat servers",
+        "Screen sharing & streaming",
+        "Custom bots and integrations",
+        "Stage channels for events",
+        "Community moderation tools"
+      ],
+      "reviews": [
+        {
+          "user": "gamer_4_life",
+          "rating": 5,
+          "comment": "Our gaming clan migrated from Skype and never looked back."
+        }
+      ]
+    },
+    {
+      "id": "app005",
+      "name": "LinkedIn",
+      "subtitle": "Network and Grow Your Career",
+      "developer": "Microsoft Corporation",
+      "thumbnail": "https://imgs.search.brave.com/fHkcGRmxcXi5YPNY2IgdmMLUixju2fE5iehM6nUejX4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE3LzAz/L0NvbG9yLW9mLXRo/ZS1MaW5rZWRJbi1M/b2dvLTUwMHgzOTUu/anBn",
+      "banner": "https://imgs.search.brave.com/EOocg0fW5ibqIpTcntkSYwpdyQPjvZlLsvvACZG5NkA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL3N3aXBl/LWluc2lnaHQvY29u/dGVudC9pbWFnZXMv/YXJ0aWNsZV9pbWFn/ZXMvNDAxX2VkaXRl/ZF82MzYzMDYyLndl/YnA",
+      "downloads": 1000000000,
+      "category": "Social Media",
+      "rating": 4.3,
+      "description": "LinkedIn is the professional's social network, connecting 800M+ users for jobs, networking, and industry insights. Users build profiles akin to digital resumes, join industry groups, and consume business news. Recruiters source candidates via advanced filters, while LinkedIn Learning offers courses. The feed mixes career updates with thought leadership posts, and Sales Navigator aids B2B outreach.",
+      "features": [
+        "Professional profile builder",
+        "Job search and applications",
+        "Industry news feed",
+        "LinkedIn Learning courses",
+        "Sales Navigator for B2B"
+      ],
+      "reviews": [
+        {
+          "user": "tech_recruiter",
+          "rating": 4,
+          "comment": "Found 80% of our hires here—but the premium pricing is steep."
+        }
+      ]
+    },
+    {
+      "id": "app006",
+      "name": "Snapchat",
+      "subtitle": "Real Friends. Real Fun.",
+      "developer": "Snap Inc.",
+      "thumbnail": "https://imgs.search.brave.com/wRfJbYxk69uSOZ68TuoVckngatx23Zlc62JwRmt0GO0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA2Lzc3LzQzLzg4/LzM2MF9GXzY3NzQz/ODg3M19hNmVJZWVX/bG56UkhZRUgwN0xw/SEpsdXFicVA5dXN4/Vi5qcGc",
+      "banner": "https://imgs.search.brave.com/Ob5eumEfS9XfAX2DWrUpulx-isfCQNT3jlioPcuWC6U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzEwLzE0LzEzLzIx/LzM2MF9GXzEwMTQx/MzIxNTRfaUQ4dm5W/V2hKeFUyTGhMZ1Ny/VnpyMVpuWlRXNEdi/c2MuanBn",
+      "downloads": 1000000000,
+      "category": "Social Media",
+      "rating": 4.2,
+      "description": "Snapchat pioneered ephemeral messaging with disappearing photos/videos (Snaps). The app thrives among Gen Z for its playful AR lenses, Bitmoji avatars, and private Stories. Discover hosts publisher content, while Spotlight competes with TikTok. Map Stories let friends share locations, and Snap Originals produce exclusive shows. Brands use Sponsored Lenses for interactive ads.",
+      "features": [
+        "Disappearing photo/video messages",
+        "Augmented Reality (AR) lenses",
+        "Bitmoji integration",
+        "Discover for publisher content",
+        "Location-based Map Stories"
+      ],
+      "reviews": [
+        {
+          "user": "genz_user",
+          "rating": 5,
+          "comment": "The only app where I can be silly with friends without it living online forever."
+        }
+      ]
+    },
+    {
+      "id": "app007",
+      "name": "Pinterest",
+      "subtitle": "Get Inspired",
+      "developer": "Pinterest, Inc.",
+      "thumbnail": "https://imgs.search.brave.com/BbnRJMh3ICRE-ZPwlZOFV0PFbkACdgx6aoC9pHnYo8c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvcHJl/dmlld3MvMDE4Lzkz/MC80Njgvbm9uXzJ4/L3BpbnRlcmVzdC1s/b2dvLXBpbnRlcmVz/dC10cmFuc3BhcmVu/dC1mcmVlLXBuZy5w/bmc",
+      "banner": "https://imgs.search.brave.com/vnFLz8Mk6LJdO7IiJoz6kElhfJdA3RzY9St7zMi1SyQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hcnRp/Y2xlcy1pbWFnZXMu/c2Z0Y2RuLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvc2l0ZXMv/My8yMDE0LzAxL1Bp/bnRlcmVzdC1JbnRl/cmVzdHMtaGVhZGVy/LmpwZw",
+      "downloads": 500000000,
+      "category": "Social Media",
+      "rating": 4.4,
+      "description": "Pinterest is a visual discovery engine for ideas like recipes, home decor, and fashion. Users 'pin' images to themed boards and shop directly from product pins. Lens lets you search by camera, and Idea Pins are for creators. The algorithm suggests personalized recommendations, making it a go-to for planners and DIYers. 80% of users report feeling positive after using Pinterest.",
+      "features": [
+        "Visual search and discovery",
+        "Custom idea boards",
+        "Shopping with product pins",
+        "Lens (camera search)",
+        "Idea Pins for creators"
+      ],
+      "reviews": [
+        {
+          "user": "diy_queen",
+          "rating": 5,
+          "comment": "Planned my entire wedding using Pinterest boards!"
+        }
+      ]
+    },
+    {
+      "id": "app008",
+      "name": "Reddit",
+      "subtitle": "The Front Page of the Internet",
+      "developer": "Reddit Inc.",
+      "thumbnail": "https://imgs.search.brave.com/r_yxpouSxF43pStnP9Ll9SBci1Ou739ibe6J8iYj-VU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZWRk/aXRpbmMuY29tL2hz/LWZzL2h1YmZzL1Jl/ZGRpdCUyMEluYy9D/b250ZW50L0JyYW5k/JTIwUGFnZS9SZWRk/aXRfTG9nby5wbmc_/d2lkdGg9NDAwJmhl/aWdodD00MDAmbmFt/ZT1SZWRkaXRfTG9n/by5wbmc",
+      "banner": "https://imgs.search.brave.com/0_WxWnjW_vu2z2Veb5Ezn675gi5YK0jRtDFsP8z-wKg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMxLm1ha2V1c2Vv/ZmltYWdlcy5jb20v/d29yZHByZXNzL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzAy/L3JlZGRpdC11c2Vy/LXNldHRpbmdzLW9u/LXdlYnNpdGUtaW5j/bHVkaW5nLWltYWdl/cy5wbmc",
+      "downloads": 500000000,
+      "category": "Social Media",
+      "rating": 4.0,
+      "description": "Reddit hosts 100,000+ niche communities ('subreddits') where users anonymously discuss topics from memes to quantum physics. Upvotes/downvotes surface quality content, while AMAs (Ask Me Anything) connect users with celebrities. Moderators enforce rules, and Premium offers ad-free browsing. The unpredictable mix of humor, expertise, and toxicity defines Reddit's charm.",
+      "features": [
+        "Subreddit communities",
+        "Upvote/downvote system",
+        "Anonymous posting",
+        "Reddit Premium (ad-free)",
+        "Live AMA sessions"
+      ],
+      "reviews": [
+        {
+          "user": "lurker_account",
+          "rating": 4,
+          "comment": "Found my people in obscure hobby subreddits—just avoid the toxic ones."
+        }
+      ]
+    },
+    {
+      "id": "app009",
+      "name": "Clubhouse",
+      "subtitle": "Drop-in Audio Chat",
+      "developer": "Alpha Exploration Co.",
+      "thumbnail": "https://imgs.search.brave.com/1Vss6y1KC5g79jfU0NBX_TJxnWUoul3FvWPSOUH_mVg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2MzL0NsdWJob3Vz/ZV9BcHBfTG9nby5z/dmc",
+      "banner": "https://imgs.search.brave.com/CvOmrug94NvGHhxaPKTG8eqS9-5cB4T9bPwJYYpkHKM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzE5MDAw/MjQvc2NyZWVuc2hv/dHMvMTU3NTQ5MjYv/bWVkaWEvYTgxZmQ4/MjhjNmI2ZjA0Zjhi/YmZhZGQ3ODdhNGY1/MDIuanBnP3Jlc2l6/ZT00MDB4MA",
+      "downloads": 10000000,
+      "category": "Social Media",
+      "rating": 3.9,
+      "description": "Clubhouse popularized social audio with invite-only rooms for live discussions. Users 'drop in' to hear conversations on tech, culture, or networking, with moderators controlling speakers. Backchannel DMs allow private chats during talks. While hype faded post-pandemic, niche communities still thrive for intimate, voice-only interactions.",
+      "features": [
+        "Live audio chat rooms",
+        "Invite-only communities",
+        "Backchannel private messaging",
+        "Club creation for topics",
+        "Scheduled events calendar"
+      ],
+      "reviews": [
+        {
+          "user": "audio_fan",
+          "rating": 3,
+          "comment": "Great for industry networking, but too many empty rooms now."
+        }
+      ]
+    },
+    {
+      "id": "app010",
+      "name": "BeReal",
+      "subtitle": "Your Friends for Real",
+      "developer": "BeReal.",
+      "thumbnail": "https://imgs.search.brave.com/f8jvXuHTDmLABjpF2NBglTRVy1WBluz4WQU1KdeoC8k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/YmVyZWFsLWFwcC1s/b2dvLWZvbnQtdjAt/eXMxOWFueWplYTBh/MS5wbmc_d2lkdGg9/Mjc2JmZvcm1hdD1w/bmcmYXV0bz13ZWJw/JnM9YTFmYWY2M2Q2/Y2E0ZjMyYTFjNTQ1/Nzg5MjJjZDY0ZWVi/YzI5YmUyNg",
+      "banner": "https://imgs.search.brave.com/9xbCu7B50yYXcc3wnUDt1PQyt-GW76yeKCcM2eiCc9I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hczEu/ZnRjZG4ubmV0L2pw/Zy8wNS8yOC8zNC80/OC8xMDAwX0ZfNTI4/MzQ0ODMwX0FzZW05/c3lxcnFoQ2pvam9P/bEkxdkNBR3MyUmFV/TmI3LmpwZw",
+      "downloads": 50000000,
+      "category": "Social Media",
+      "rating": 4.2,
+      "description": "BeReal challenges curated social media with once-daily notifications prompting users to share unfiltered photos within 2 minutes. Front and back cameras capture simultaneously, revealing genuine moments. No likes or followers—just raw glimpses into friends' lives. The app gained Gen Z traction as an antidote to Instagram perfection.",
+      "features": [
+        "Daily spontaneous photo alerts",
+        "Dual-camera capture",
+        "No filters or editing tools",
+        "Private friend-based network",
+        "Memories timeline"
+      ],
+      "reviews": [
+        {
+          "user": "anti_instagram",
+          "rating": 4,
+          "comment": "Finally, an app where my breakfast toast doesn’t need to be aesthetic."
+        }
+      ]
+    },
+    {
+      "id": "app011",
+      "name": "Telegram",
+      "subtitle": "Fast and Secure Messaging",
+      "developer": "Telegram FZ-LLC",
+      "thumbnail": "https://imgs.search.brave.com/mZubhDzUuUTVFDwofyxpHZBhUe2dVW4xJSmUoDjlFmo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzgyL1RlbGVncmFt/X2xvZ28uc3Zn",
+      "banner": "https://imgs.search.brave.com/Y2n2Ali9GBgatpXW_94hIgjF_nT768O-pvVaYBHstB4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1wc2Qv/Zm9sbG93LXVzLXRl/bGVncmFtLXNvY2lh/bC1tZWRpYS1zcXVh/cmUtYmFubmVyXzQ0/NTA1OS0zODMuanBn/P3NlbXQ9YWlzX2h5/YnJpZCZ3PTc0MA",
+      "downloads": 1000000000,
+      "category": "Social Media",
+      "rating": 4.5,
+      "description": "Telegram blends private messaging with public channels in a secure, cloud-based platform. Features include encrypted Secret Chats, massive 200K-member groups, and bots for tasks like news alerts or file conversion. Channels broadcast to unlimited subscribers, making it popular for news and piracy alike. Custom themes and animated stickers personalize the experience.",
+      "features": [
+        "End-to-end encrypted chats",
+        "Public broadcast channels",
+        "Bots for automation",
+        "Self-destructing messages",
+        "Cross-platform sync"
+      ],
+      "reviews": [
+        {
+          "user": "privacy_nerd",
+          "rating": 5,
+          "comment": "Switched from WhatsApp for the larger groups and customization."
+        }
+      ]
+    },
+    {
+      "id": "app012",
+      "name": "Twitch",
+      "subtitle": "Live Streaming for Gamers",
+      "developer": "Amazon.com, Inc.",
+      "thumbnail": "https://imgs.search.brave.com/fQ_bg5eJdeq6syAYQ7M0UEmrIhcMpTc202PNmA8c_yE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzExLzMwLzExLzE0/LzM2MF9GXzExMzAx/MTE0OTRfeGZxcUhH/Rld1NzlZMDFuRk9E/TEVLaE1EODVheDVy/ZTguanBn",
+      "banner": "https://imgs.search.brave.com/VI6bsmhwqSpoVukdXPbMKf8eXHdIP6nEM40NPPiHRVY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmFt/ZXJ1c2VyY29udGVu/dC5jb20vaW1hZ2Vz/L1BoMDJUcTVPMlcy/Vm5zWmRESVo1WFl2/V2JVLnBuZw",
+      "downloads": 100000000,
+      "category": "Social Media",
+      "rating": 4.3,
+      "description": "Twitch dominates live streaming, especially for gaming, with 30M+ daily viewers. Streamers broadcast gameplay, IRL (in-real-life) content, or creative work, while viewers chat and cheer with Bits (virtual currency). Subscriptions and ads monetize channels. The platform birthed esports careers and communities like 'Just Chatting' for non-gaming content.",
+      "features": [
+        "Live video streaming",
+        "Interactive chat with emotes",
+        "Channel subscriptions",
+        "Bits (virtual cheers)",
+        "Clips for highlights"
+      ],
+      "reviews": [
+        {
+          "user": "streamer_wannabe",
+          "rating": 4,
+          "comment": "Built a full-time income here, but discoverability is tough for newbies."
+        }
+      ]
+    },
+    {
+      "id": "app013",
+      "name": "Nextdoor",
+      "subtitle": "The Neighborhood Hub",
+      "developer": "Nextdoor, Inc.",
+      "thumbnail": "https://imgs.search.brave.com/6xuXChUD_JanqlR34cFFN7wxtWp_R0h6irgoqqLt0Yk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9idXNp/bmVzcy5uZXh0ZG9v/ci5jb20vaHViZnMv/bmQtbG9nby1iYWRn/ZS5zdmc",
+      "banner": "https://imgs.search.brave.com/ZfEHkSJIHElCnUEfPAzaeKVFI2py7bmq0ykpOtEPPMY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hYm91/dC5uZXh0ZG9vci5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTgvMTIvbWVkaWEt/bG9nb3Mtd2hpdGUt/MS5wbmc",
+      "downloads": 100000000,
+      "category": "Social Media",
+      "rating": 3.8,
+      "description": "Nextdoor connects neighbors for hyperlocal discussions, lost pet alerts, and recommendations. Verification ensures users live where they claim, reducing spam. Businesses target nearby customers, while crime reports and free listings foster community trust. Critics note it can amplify NIMBYism, but it's invaluable for local emergencies.",
+      "features": [
+        "Geographically limited networks",
+        "Crime & safety alerts",
+        "Local business directory",
+        "Free item listings",
+        "Neighborhood recommendations"
+      ],
+      "reviews": [
+        {
+          "user": "blockwatch_captain",
+          "rating": 3,
+          "comment": "Great for finding a plumber, but too much drama about parking spaces."
+        }
+      ]
+    },
+    {
+      "id": "app014",
+      "name": "Signal",
+      "subtitle": "Say It Privately",
+      "developer": "Signal Foundation",
+      "thumbnail": "https://imgs.search.brave.com/fi4O-pr0Ma0KTBwMJkbfRPIGtDMSzOE67Afo36vsZkw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzhkL1NpZ25hbC1M/b2dvLnN2Zw",
+      "banner": "https://imgs.search.brave.com/OmsPzATwyleMQm7-9qR6fQb78vJUJ0Cwg6OeuycGymg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTIz/MDU5NzI4OS9waG90/by9zaWduYWwtbG9n/by1vbi10aGUtYXBw/c3RvcmUtZGlzcGxh/eWVkLW9uLWEtcGhv/bmUtc2NyZWVuLWFu/ZC1zaWduYWwtbG9n/by1pbi10aGUtYmFj/a2dyb3VuZC1hcmUu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PTlvWlNIZDdObnIx/WC03RmpzVTUxN0Fx/Ulp4X3Q2UUF3eC1z/Uk5xbmE4ajA9",
+      "downloads": 100000000,
+      "category": "Social Media",
+      "rating": 4.7,
+      "description": "Signal prioritizes privacy with open-source, end-to-end encrypted messaging. Features include disappearing messages, screen security (blocking screenshots), and sealed sender (hiding metadata). Ad-free and nonprofit, it's trusted by journalists and activists. Group chats support 1000 members with admin controls, though it lacks flashy social features.",
+      "features": [
+        "End-to-end encryption",
+        "Disappearing messages",
+        "Group video calls",
+        "No ads or tracking",
+        "Open-source transparency"
+      ],
+      "reviews": [
+        {
+          "user": "security_expert",
+          "rating": 5,
+          "comment": "The only app Edward Snowden recommends—worth the simplicity tradeoffs."
+        }
+      ]
+    },
+    {
+      "id": "app015",
+      "name": "VSCO",
+      "subtitle": "Photo & Video Editor",
+      "developer": "VSCO",
+      "thumbnail": "https://imgs.search.brave.com/lrltGuFDBBIZVBZhvc6vZl_Zjfgy7I8Z1O6M7AJ-bGY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2RlLzkw/L2IzL2RlOTBiM2Yy/YmM2MWY2YWEwZjM1/OGRiYzUzMjU1NzBl/LmpwZw",
+      "banner": "https://imgs.search.brave.com/cQsQuYp7UWNsb4g1Jl1ymuhXPGoEijOsVD1KTBfHTfg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJ1cGxvYWQv/MjI3NDI0OTgvZmls/ZS9vcmlnaW5hbC1m/YThkNzBjYTg0OWIw/ZGI2ODE4MjFiNjIy/MWQ2ODhmNS5wbmc_/cmVzaXplPTQwMHgw",
+      "downloads": 50000000,
+      "category": "Social Media",
+      "rating": 4.4,
+      "description": "VSCO combines advanced photo editing with a minimalist social network. Users apply premium filters (presets), tweak with pro tools, and share to a feed devoid of likes or comments. The focus is on artistry over engagement metrics. VSCO X membership unlocks exclusive presets and educational content.",
+      "features": [
+        "Advanced photo editing tools",
+        "Signature VSCO presets",
+        "Ad-free artistic community",
+        "No public like counts",
+        "VSCO X membership perks"
+      ],
+      "reviews": [
+        {
+          "user": "mobile_photog",
+          "rating": 4,
+          "comment": "My secret weapon for making iPhone photos look pro."
+        }
+      ]
+    },
+    {
+      "id": "app016",
+      "name": "Meetup",
+      "subtitle": "Find Your Community",
+      "developer": "Meetup",
+      "thumbnail": "https://imgs.search.brave.com/lXh0X1ToZu25yZbb3jxnBcDtSZkGNc4mKi9u1Q1ec9A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA2LzQ3LzgwLzk0/LzM2MF9GXzY0Nzgw/OTQxN18yU0xwVHFM/blFRUGdHZHVLNTFz/OE1LQ1Q2eG5rYml3/Ni5qcGc",
+      "banner": "https://imgs.search.brave.com/iGfnIFNkZmikXh4q_5rsDqgLU0nRdWfY-ROYFimZ8Do/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA5LzEyLzU1Lzcx/LzM2MF9GXzkxMjU1/NzEzOF93Nk5TbWRE/RzdLaUJkWHloTjUz/Q1dnMkNaQ1kydlhI/QS5qcGc",
+      "downloads": 50000000,
+      "category": "Social Media",
+      "rating": 4.1,
+      "description": "Meetup facilitates in-person and virtual events based on shared interests—from hiking to blockchain. Users join groups (e.g., 'NYC Tech Talks') and RSVP to events. Organizers pay to host, while attendees network. Post-pandemic hybrid events blend local and global participation, reviving its utility for professional and hobbyist communities.",
+      "features": [
+        "Interest-based group discovery",
+        "In-person/virtual event listings",
+        "RSVP and reminders",
+        "Discussion boards",
+        "Organizer tools"
+      ],
+      "reviews": [
+        {
+          "user": "startup_founder",
+          "rating": 4,
+          "comment": "Met my co-founder at a Meetup—old-school but effective."
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,418 @@
+[
+    {
+      "id": "app001",
+      "name": "MyTherapy",
+      "subtitle": "Medication Reminder & Health Tracker",
+      "developer": "Smartpatient GmbH",
+      "thumbnail": "https://img.utdstc.com/icon/954/f9e/954f9ee6f3680d40d24ffa261bd33a031dbaaaad79f2a3dbbc8bf75fead30708:200",
+      "banner": "https://www.mytherapyapp.com/media/pages/en/home/44fb462e87-1733690891/group-871-1-q65-optimized.png",
+      "downloads": 10000000,
+      "category": "Healthcare",
+      "rating": 4.7,
+      "description": "MyTherapy helps users manage medications, track symptoms, and maintain treatment plans with smart reminders and progress reports. Designed for chronic condition management, it supports pill identification, doctor visit logs, and health measurement tracking (blood pressure, glucose, etc.). HIPAA-compliant with exportable PDF reports for healthcare providers.",
+      "features": [
+        "Smart medication reminders",
+        "Symptom & measurement tracking",
+        "Pill identification via camera",
+        "Doctor appointment logs",
+        "Exportable health reports"
+      ],
+      "reviews": [
+        {
+          "user": "diabetes_care",
+          "rating": 5,
+          "comment": "Life-changing for managing my insulin regimen!"
+        }
+      ]
+    },
+    {
+      "id": "app002",
+      "name": "Ada Health",
+      "subtitle": "AI-Powered Symptom Checker",
+      "developer": "Ada Health GmbH",
+      "thumbnail": "https://play-lh.googleusercontent.com/nrZjgITchOX_fQwykerw8eflueGYxVkhJPjeC8Kot_MFSLEhf6TmmaHRj0I_21eXigg=w480-h960-rw",
+      "banner": "https://imgs.search.brave.com/3DxRDsd-Cxwd89Sv4OLdAh_QdfLfot1TkbYpZTuJgt8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hYm91/dC5hZGEuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzEw/L0FkYWNvbXBsZXRl/czFtaWxsaW9uc3lt/cHRvbWFzc2Vzc21l/bnRzQDN4LndlYnA",
+      "downloads": 15000000,
+      "category": "Healthcare",
+      "rating": 4.8,
+      "description": "Ada uses artificial intelligence to analyze symptoms and suggest possible conditions based on medical knowledge. The app guides users through personalized questionnaires, provides triage recommendations (e.g., 'seek emergency care' or 'self-monitor'), and stores health profiles for ongoing tracking. Connects users with doctors for virtual consultations.",
+      "features": [
+        "AI symptom assessment",
+        "Personalized health insights",
+        "Doctor chat integration",
+        "Multilingual support (20+ languages)",
+        "Family health profiles"
+      ],
+      "reviews": [
+        {
+          "user": "anxious_parent",
+          "rating": 4,
+          "comment": "Saved us an unnecessary ER visit—accurate and calming."
+        }
+      ]
+    },
+    {
+      "id": "app003",
+      "name": "Headspace",
+      "subtitle": "Mindfulness & Sleep Support",
+      "developer": "Headspace Inc.",
+      "thumbnail": "https://imgs.search.brave.com/NKuLmP2vIcpGzUzOWhngVTKi_7U-rPYmSrY1h8Ga7ms/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJhbmRmZXRjaC5p/by9pZDNVU2I0Q2dV/L3cvNDAwL2gvNDAw/L3RoZW1lL2Rhcmsv/aWNvbi5qcGVnP2M9/MWJ4aWQ2NE11cDdh/Y3pld1NBWU1YJnQ9/MTcxODM1NTUzNzg3/Mg",
+      "banner": "https://imgs.search.brave.com/-ikak805-0LszIh235DZNU56iuQpsNrhnbzvWdasdbM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmlu/c2lkZXIuY29tLzU3/YmEwZmZmZGQwODk1/NWY2NThiNDcyMz93/aWR0aD03MDA",
+      "downloads": 50000000,
+      "category": "Healthcare",
+      "rating": 4.9,
+      "description": "Headspace offers guided meditations, sleepcasts (soothing audio stories), and mindfulness exercises to reduce stress and improve mental health. Clinically proven to lower anxiety, the app includes SOS sessions for acute stress, movement exercises, and focus music. Used by therapists as adjunct therapy for depression and insomnia.",
+      "features": [
+        "500+ guided meditations",
+        "Sleep sounds & wind-down content",
+        "Anxiety & stress management",
+        "Mindful workout videos",
+        "Family plans for up to 6 users"
+      ],
+      "reviews": [
+        {
+          "user": "mentalhealth_advocate",
+          "rating": 5,
+          "comment": "My therapist recommended this—now I use it daily."
+        }
+      ]
+    },
+    {
+      "id": "app004",
+      "name": "K Health",
+      "subtitle": "24/7 Virtual Primary Care",
+      "developer": "K Health Inc.",
+      "thumbnail": "https://imgs.search.brave.com/C-qn6cudrbSS6W4PEyrCnCiXIvXwKkRo89kko4e5HRw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zNC1y/ZWNydWl0aW5nLmNk/bi5ncmVlbmhvdXNl/LmlvL2V4dGVybmFs/X2dyZWVuaG91c2Vf/am9iX2JvYXJkcy9s/b2dvcy80MDAvOTgy/LzEwMC9vcmlnaW5h/bC9LX0hlYWx0aF9M/b2dvX1ZlcnRpY2Fs/X0JsdWUucG5nPzE3/MTAyNjQ2OTk",
+      "banner": "https://imgs.search.brave.com/OUdYApPXhbF5j5m7gyXSGkgtJgV38SuBRdOX9boTm2w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9oTWo5X0hBQTVi/dUpDaXUyRU5qaHJo/aXUwWUZpM0lRWm9t/aFk5QjkydHYtQUdB/LUtVNzZLbzRwMy1G/TVV1YU9OY3c9dzQx/Ni1oMjM1LXJ3",
+      "downloads": 8000000,
+      "category": "Healthcare",
+      "rating": 4.6,
+      "description": "K Health provides AI-assisted virtual primary care with licensed doctors. Users input symptoms to compare with millions of anonymized health records, then chat with physicians for diagnosis/treatment (including prescriptions). Covers UTIs, cold/flu, mental health, and chronic conditions. Accepts most US insurance plans.",
+      "features": [
+        "AI-powered symptom analysis",
+        "Doctor consultations via chat",
+        "Prescription delivery",
+        "Insurance acceptance",
+        "Personal health history tracking"
+      ],
+      "reviews": [
+        {
+          "user": "busy_mom",
+          "rating": 5,
+          "comment": "Got antibiotics for a UTI at 2 AM without leaving home!"
+        }
+      ]
+    },
+    {
+      "id": "app005",
+      "name": "Flutter",
+      "subtitle": "Track & Predict Menstrual Cycles",
+      "developer": "Flutter Technologies",
+      "thumbnail": "https://imgs.search.brave.com/yvm-pB6qCLPUdlTDkW3H8hAvEtkt3qxvLrlXQR2MW9M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL2Ntcy1z/dG9yYWdlLWJ1Y2tl/dC9lYTU1OWFkMjYx/MWJmNjcwNzMzMC5w/bmc",
+      "banner": "https://imgs.search.brave.com/MixfrG3-7in4Ay4jojxu-izoywLw8LWf2mko6KlQttg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL2Ntcy1z/dG9yYWdlLWJ1Y2tl/dC85MTY4MDlhYTRj/OGY3M2FkNzBkMi5z/dmc",
+      "downloads": 12000000,
+      "category": "Healthcare",
+      "rating": 4.7,
+      "description": "Flutter uses machine learning to predict menstrual cycles, ovulation, and PMS symptoms with 90% accuracy. Includes mood/symptom logging, contraceptive reminders, and pregnancy mode. Partners with fertility clinics and syncs with Apple Health. Endorsed by OB-GYNs for natural family planning.",
+      "features": [
+        "AI cycle predictions",
+        "Pregnancy & breastfeeding modes",
+        "Birth control reminders",
+        "Anonymous community support",
+        "Medical report exports"
+      ],
+      "reviews": [
+        {
+          "user": "ttc_user",
+          "rating": 5,
+          "comment": "Helped me conceive by pinpointing ovulation perfectly."
+        }
+      ]
+    },
+    {
+      "id": "app006",
+      "name": "BetterHelp",
+      "subtitle": "Online Therapy & Counseling",
+      "developer": "BetterHelp",
+      "thumbnail": "https://imgs.search.brave.com/Yb5C8JFa8FZN_BdFZkf6UF_lhvFasInDs4eURY3r-As/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZW4uYXB0b2lk/ZS5jb20vc3RhdGlj/L2ltZ3MvYXBwYy9s/b2dvLWFwcGNvaW5z/LTIuc3Zn",
+      "banner": "https://imgs.search.brave.com/kOquvYnUDr2P18cocCLXDBb_fbFNyeSOpdoadzWbkr8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL2JldHRl/cmhlbHA5MTAxLmpw/Zw",
+      "downloads": 5000000,
+      "category": "Healthcare",
+      "rating": 4.5,
+      "description": "BetterHelp connects users with licensed therapists via video, phone, or text. Matches clients based on specialty (anxiety, trauma, LGBTQ+ issues, etc.). Offers journaling tools, group webinars, and crisis resources. HIPAA-compliant with financial aid options. Not for emergencies or severe psychiatric conditions.",
+      "features": [
+        "Live therapy sessions",
+        "Messaging with counselors",
+        "Specialty matching (200+ topics)",
+        "Journal prompts & worksheets",
+        "Financial aid available"
+      ],
+      "reviews": [
+        {
+          "user": "depression_survivor",
+          "rating": 4,
+          "comment": "More affordable than in-person therapy—saved my marriage."
+        }
+      ]
+    },
+    {
+      "id": "app007",
+      "name": "Dexcom G6",
+      "subtitle": "Real-Time Glucose Monitoring",
+      "developer": "Dexcom Inc.",
+      "thumbnail": "https://imgs.search.brave.com/2T0st9xG_n1TH43yOPekFOcqsuAwNmZzQIeHC1de_UI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS85Z2haQl81Yjdz/M1IzT0hBMFJGR2JB/dWpYM1h3Y3BZV1B0/YllFWW5mancxZ1pz/aDBtOVdscmlDSEtB/X2ZidjZDUDVJPXcy/NDAtaDQ4MC1ydw",
+      "banner": "https://imgs.search.brave.com/FGQyaYVG4ino7K-Yk6ONCdyp2qzK_f_l1N1ZQw1YUkM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bWVkaWEuYW1wbGll/bmNlLm5ldC9pL2Rl/eGNvbS9tb2JpbGUt/YXBwLW9uLXBob25l/LXdpdGgtNTYtcmVh/ZGluZy1hbmQtbnVt/YmVycz9xbHQ9ZGVm/YXVsdCZmbXQ9YXV0/byZzbT1hc3BlY3Qm/YXNwZWN0PTE6MSZ3/PTQxNA",
+      "downloads": 2000000,
+      "category": "Healthcare",
+      "rating": 4.8,
+      "description": "Dexcom G6 displays continuous glucose monitoring (CGM) data from wearable sensors for diabetes management. Alerts for highs/lows, shares data with caregivers, and integrates with insulin pumps. FDA-cleared and used by endocrinologists to adjust treatment plans. Requires compatible Dexcom hardware.",
+      "features": [
+        "Real-time glucose readings",
+        "Customizable alerts",
+        "Share data with 10+ followers",
+        "Apple Watch compatibility",
+        "Trend analysis reports"
+      ],
+      "reviews": [
+        {
+          "user": "type1_diabetic",
+          "rating": 5,
+          "comment": "No more fingersticks—this app gives me my life back."
+        }
+      ]
+    },
+    {
+      "id": "app008",
+      "name": "Calm",
+      "subtitle": "Sleep & Meditation Mastery",
+      "developer": "Calm Inc.",
+      "thumbnail": "https://imgs.search.brave.com/gQLQU59JLL0JkOvIwy_HzqPuP9kDEAUGHnIRvF0N8f8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzJjL0NhbG1fKGNv/bXBhbnkpX2xvZ28u/c3Zn",
+      "banner": "https://imgs.search.brave.com/I60OACdkszj7_E0MF8yi3iZI4MTBig3XzlKuZAoFWfU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by93b21hbi1wcmFj/dGljZS15b2dhLXRl/bXBsYXRlLXdoaXRl/LWdyZWVuLW5hbWFz/dGUtY29weS1zcGFj/ZV83NTk1NzUtMTEx/ODIuanBnP3NlbXQ9/YWlzX2h5YnJpZCZ3/PTc0MA",
+      "downloads": 100000000,
+      "category": "Healthcare",
+      "rating": 4.9,
+      "description": "Calm offers guided meditations, sleep stories (narrated by celebrities like Matthew McConaughey), and breathing exercises to reduce anxiety and improve sleep. Clinically proven to lower stress hormones. Includes Masterclasses from mental health experts and nature soundscapes for focus/relaxation.",
+      "features": [
+        "Sleep stories for adults/kids",
+        "Daily 10-minute meditations",
+        "Breathing & stretching exercises",
+        "Stress & anxiety programs",
+        "Heart rate tracking (premium)"
+      ],
+      "reviews": [
+        {
+          "user": "insomniac_anon",
+          "rating": 5,
+          "comment": "The Stephen Fry sleep story knocks me out every time."
+        }
+      ]
+    },
+    {
+      "id": "app009",
+      "name": "Epic MyChart",
+      "subtitle": "Hospital Health Records Portal",
+      "developer": "Epic Systems",
+      "thumbnail": "https://i.ibb.co/0mXvQ0k/mychart-thumb.jpg",
+      "banner": "https://i.ibb.co/6RJq1m0/mychart-banner.jpg",
+      "downloads": 50000000,
+      "category": "Healthcare",
+      "rating": 4.5,
+      "description": "Epic MyChart provides secure access to medical records from 2,000+ US hospitals. View test results, schedule appointments, message doctors, and pay bills. Vaccine records and prescription refills available. Emergency access feature allows family members to view records during crises.",
+      "features": [
+        "Lab/test result tracking",
+        "Telehealth visits",
+        "Medication renewal requests",
+        "Family health record access",
+        "COVID vaccine records"
+      ],
+      "reviews": [
+        {
+          "user": "cancer_patient",
+          "rating": 4,
+          "comment": "Centralized all my oncology reports from 3 different hospitals."
+        }
+      ]
+    },
+    {
+      "id": "app010",
+      "name": "Clue Period Tracker",
+      "subtitle": "Science-Based Cycle Health",
+      "developer": "BioWink GmbH",
+      "thumbnail": "https://play-lh.googleusercontent.com/FGULXsKpMz-SctALJKzI8WZ8-IZjvI3_pdltt1JCXeQ-ES-K9k4tgvPpUUFaEaCG8es=w480-h960-rw",
+      "banner": "https://imgs.search.brave.com/3GMPqs3Tct5g2626pFDkOSOep4wiz1meFifl1Tqrh9Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmFt/ZXJ1c2VyY29udGVu/dC5jb20vaW1hZ2Vz/L0NocnpPaDdyeXdM/bGlWTzZRZ3JmR2o5/cDRjLmpwZz9zY2Fs/ZS1kb3duLXRvPTQw/OTY",
+      "downloads": 15000000,
+      "category": "Healthcare",
+      "rating": 4.7,
+      "description": "Clue tracks menstrual cycles, ovulation, and 30+ health symptoms using peer-reviewed research. Predicts periods with 90% accuracy and offers insights on energy, skin, and digestion changes. GDPR-compliant with no fertility ads. Used in NIH studies on reproductive health.",
+      "features": [
+        "Cycle & ovulation predictions",
+        "Symptom pattern analysis",
+        "Birth control reminders",
+        "Anonymous health research opt-in",
+        "Apple Health sync"
+      ],
+      "reviews": [
+        {
+          "user": "pcos_warrior",
+          "rating": 5,
+          "comment": "Helped me identify my irregular cycles weren’t normal—diagnosed with PCOS."
+        }
+      ]
+    },
+    {
+      "id": "app011",
+      "name": "Teladoc Health",
+      "subtitle": "Board-Certified Doctors On-Demand",
+      "developer": "Teladoc",
+      "thumbnail": "https://imgs.search.brave.com/yc75SSt4xCIbIqDhPFVdQTeJbpdEEzSshIyqY6HUHeY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbGF5/LWxoLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS8wa2xQMVlJNEFz/N1BGUFd4ZU0zNXBV/MFJCM3o3UEJ6em5T/WVI2ZzNoeDJyblZo/X0pYdmFzX0hKZ0dP/d012N2lTWlJrPXcy/NDAtaDQ4MC1ydw",
+      "banner": "https://imgs.search.brave.com/3xcKKLtSiFjlxOuzXZhRrGOl0zjSBwc8q1uuYycqgaE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3RmYXNzZXRz/Lm5ldC9sM3Y5ajBs/dHozeWkvNFJHTVdk/TFEwd2dHV0VxVWVD/UWVhQy9iNDk5ODU5/NzMzYWY4NzNhYWU3/OWY2OWZmZTU1NzUx/ZS9UZWxhZG9fSGVh/bHRoX0xvZ29fSlBF/Ry5qcGc_cT03MA",
+      "downloads": 10000000,
+      "category": "Healthcare",
+      "rating": 4.6,
+      "description": "Teladoc offers 24/7 video visits with US-licensed doctors for urgent care, therapy, dermatology, and chronic conditions. Prescriptions sent to local pharmacies. Accepts most insurance plans with average wait times under 10 minutes. Partners with employers and health systems.",
+      "features": [
+        "Urgent care & specialist visits",
+        "Mental health therapy",
+        "Prescription services",
+        "Insurance integration",
+        "Family accounts"
+      ],
+      "reviews": [
+        {
+          "user": "rural_patient",
+          "rating": 5,
+          "comment": "Only way to see a dermatologist without driving 100 miles."
+        }
+      ]
+    },
+    {
+      "id": "app012",
+      "name": "Medisafe",
+      "subtitle": "Pill Reminder & Pharma Companion",
+      "developer": "Medisafe",
+      "thumbnail": "https://images.en.aptoide.com/static/imgs/aptoide-logo-color.svg",
+      "banner": "https://cdn6.aptoide.com/imgs/f/f/c/ffc0cebb032ffd74000b69c2d390107a_screen.png?w=103",
+      "downloads": 7000000,
+      "category": "Healthcare",
+      "rating": 4.8,
+      "description": "Medisafe manages complex medication schedules with smart reminders, refill alerts, and interaction warnings. Family caregivers can monitor adherence remotely. Integrates with glucose meters and blood pressure cuffs. FDA-cleared and used by pharmacies for medication adherence programs.",
+      "features": [
+        "Missed dose alerts",
+        "Drug interaction checker",
+        "Family caregiver access",
+        "Pharmacy refill coordination",
+        "Health device integration"
+      ],
+      "reviews": [
+        {
+          "user": "elder_caregiver",
+          "rating": 5,
+          "comment": "My dad hasn’t missed his heart meds once since we installed this."
+        }
+      ]
+    },
+    {
+      "id": "app013",
+      "name": "Noom",
+      "subtitle": "Psychology-Based Weight Care",
+      "developer": "Noom Inc.",
+      "thumbnail": "https://imgs.search.brave.com/bZuy1KYhcTUriTWj_k6oadb-rW77QflVt-JKMYTm4_o/rs:fit:860:0:0:0/g:ce/aHR0cDovL3ByZXR0/eXN3ZWV0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvbm9vbV9t/b29uX2xvZ28uanBn",
+      "banner": "https://imgs.search.brave.com/JaWpDpPNJcubsE73iPFd-twlnJI9Pf_Z-rK2QHPxMlw/rs:fit:860:0:0:0/g:ce/aHR0cDovL3ByZXR0/eXN3ZWV0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvd2hhdF93/b3JkX25vb21fbWVh/bnMuanBn",
+      "downloads": 50000000,
+      "category": "Healthcare",
+      "rating": 4.6,
+      "description": "Noom uses cognitive behavioral therapy (CBT) techniques to promote sustainable weight loss through habit change. Includes 1:1 coaching, food logging, and 10-minute daily lessons. Clinically proven in peer-reviewed studies. Not a diet app—focuses on mental health and behavior science.",
+      "features": [
+        "Personalized coaching",
+        "CBT-based lessons",
+        "Food & exercise tracking",
+        "Progress analytics",
+        "Maintenance programs"
+      ],
+      "reviews": [
+        {
+          "user": "longterm_noomer",
+          "rating": 4,
+          "comment": "Lost 50 lbs in a year and kept it off—this teaches lifelong skills."
+        }
+      ]
+    },
+    {
+      "id": "app014",
+      "name": "WebMD",
+      "subtitle": "Trusted Medical Information",
+      "developer": "WebMD LLC",
+      "thumbnail": "https://imgs.search.brave.com/VDWUiQ25kMbHsmGpCMoXtwTF6JNTxMQJ3X57IaUSeh0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/MS53ZWJjYXRhbG9n/LmlvL2NhdGFsb2cv/d2VibWQvd2VibWQt/aWNvbi1maWxsZWQt/MjU2LnBuZz92PTE3/MTQ3NzY0MzgwNTE",
+      "banner": "https://imgs.search.brave.com/nUs2AiSEcKtaNCpRoXIcKmEL63i6G6tkCh0X6uF3oO4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mYWJy/aWticmFuZHMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9XZWJN/RC1Mb2dvLTItMTIw/MHg3NTAucG5n",
+      "downloads": 30000000,
+      "category": "Healthcare",
+      "rating": 4.4,
+      "description": "WebMD provides physician-reviewed articles, symptom checker tools, and first-aid guides. Pill identifier, local doctor search, and emergency preparedness resources included. Connects users with clinical trials. Information vetted by Mayo Clinic and Cleveland Clinic experts.",
+      "features": [
+        "Symptom checker",
+        "Pill identification tool",
+        "First-aid guides",
+        "Doctor/hospital locator",
+        "Clinical trial matching"
+      ],
+      "reviews": [
+        {
+          "user": "hypochondriac_safe",
+          "rating": 3,
+          "comment": "Reliable info but can make you paranoid—use cautiously!"
+        }
+      ]
+    },
+    {
+      "id": "app015",
+      "name": "Moodfit",
+      "subtitle": "Mental Health Fitness Tracker",
+      "developer": "Moodfit LLC",
+      "thumbnail": "https://play-lh.googleusercontent.com/pqsec82TIrTewLCUmveC7fZidAOmI4O33xOmx5zgn2HTe6ujBEV59Hisd_J7SbIZFoA=w480-h960-rw",
+      "banner": "https://imgs.search.brave.com/1uPpHRD9iko8o6Wm8JWiTbxZ5hYltEHG3uRm7mRO0DY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVyeXdlbGxtaW5k/LmNvbS90aG1iL0V4/OWJ6U0tKV3lrdmwt/S1l2M2ZXb2FWdnR3/ST0vMTUwMHgwL2Zp/bHRlcnM6bm9fdXBz/Y2FsZSgpOm1heF9i/eXRlcygxNTAwMDAp/OnN0cmlwX2ljYygp/L01vb2RmaXQtMmYw/ZDE3ZTY5MDVlNDNl/ZDgwZGFiODFlMDNl/MjA3OTAuanBn",
+      "downloads": 2000000,
+      "category": "Healthcare",
+      "rating": 4.7,
+      "description": "Moodfit applies fitness tracker principles to mental health with daily mood logging, CBT exercises, and personalized 'workouts' to build resilience. Includes breathing tools, gratitude journaling, and sleep tracking. Used by therapists as between-session homework.",
+      "features": [
+        "Mood & anxiety tracking",
+        "CBT thought reframing",
+        "Guided breathing exercises",
+        "Sleep hygiene tools",
+        "Therapist report exports"
+      ],
+      "reviews": [
+        {
+          "user": "therapy_goer",
+          "rating": 5,
+          "comment": "My psychologist loves the reports I bring from this app."
+        }
+      ]
+    },
+    {
+      "id": "app016",
+      "name": "GoodRx",
+      "subtitle": "Compare Drug Prices & Save",
+      "developer": "GoodRx",
+      "thumbnail": "https://imgs.search.brave.com/WV9t_xbcykGZtl3H9d050B71f_23UulYJKKHDnal6CI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y29tcGFyYWJseS5j/b20vMjc0NTQ3MDkv/bC8xNzY0Ml9sb2dv/X2dvb2RyeC5wbmc",
+      "banner": "https://imgs.search.brave.com/ult2E26xhjldtZnKnobHDWeDMT938l8elJxifljtIzA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3RmYXNzZXRz/Lm5ldC80ZjNyZ3F3/emR6bmovNk1LQTZo/cVRMY09WdHFLQ1BY/b1RJYS9iNWE4ZjNl/ZTcxMGJjZmFkZWNk/NjI5OGE4NzliMjBk/My9pbWctY2FyZC1w/aWxsYm90dGxlcy1w/cmVzY3JpcHRpb24u/cG5n",
+      "downloads": 20000000,
+      "category": "Healthcare",
+      "rating": 4.8,
+      "description": "GoodRx compares prescription prices at 70,000+ US pharmacies and provides coupons for instant savings (up to 80% off). Includes mail-order options, medication guides, and telehealth visits for prescriptions. Free alternative to insurance with no membership required.",
+      "features": [
+        "Real-time price comparison",
+        "Free discount coupons",
+        "Pill identifier",
+        "Telehealth visits",
+        "Refill reminders"
+      ],
+      "reviews": [
+        {
+          "user": "fixed_income",
+          "rating": 5,
+          "comment": "My $300/month inhaler now costs $30—literally life-saving."
+        }
+      ]
+    }
+  ]

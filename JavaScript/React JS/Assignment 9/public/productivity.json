@@ -1,0 +1,418 @@
+[
+    {
+      "id": "app001",
+      "name": "Notion",
+      "subtitle": "All-in-One Workspace",
+      "developer": "Notion Labs Inc.",
+      "thumbnail": "https://play-lh.googleusercontent.com/-Xv3pGXMsGxpG5WFJAXMD43-apE4zUduGCPWXOV-x1eHqi6PtisAo8JKh1Iw-yXfvGo=w480-h960-rw",
+      "banner": "https://i.ibb.co.com/Kdmx203/2025-05-07-21-41-12.png",
+      "downloads": 50000000,
+      "category": "Productivity",
+      "rating": 4.9,
+      "description": "Notion is a powerful workspace that combines notes, tasks, databases, and collaboration in one flexible platform. Whether you're managing projects, organizing personal goals, or building a knowledge base, Notion adapts to your workflow with customizable templates, markdown support, and real-time team collaboration. Sync across all devices and integrate with tools like Slack, Google Drive, and Trello.",
+      "features": [
+        "Customizable workspaces",
+        "Task & project management",
+        "Database & wiki support",
+        "Real-time collaboration",
+        "Cross-platform sync"
+      ],
+      "reviews": [
+        {
+          "user": "productivity_guru",
+          "rating": 5,
+          "comment": "Replaced Evernote, Trello, and my to-do list app—game changer!"
+        }
+      ]
+    },
+    {
+      "id": "app002",
+      "name": "Todoist",
+      "subtitle": "Smart Task Manager",
+      "developer": "Doist",
+      "thumbnail": "https://w7.pngwing.com/pngs/296/694/png-transparent-square-red-and-white-icon-todoist-logo-action-item-task-management-scientists-miscellaneous-angle-rectangle-thumbnail.png",
+      "banner": "https://www.shutterstock.com/image-photo/barcelona-spain-june-11-2020-260nw-1754239904.jpg",
+      "downloads": 30000000,
+      "category": "Productivity",
+      "rating": 4.7,
+      "description": "Todoist helps you organize tasks with natural language input, priority levels, and productivity tracking. Set recurring deadlines, share projects with teams, and visualize progress with Kanban boards. Integrates with Gmail, Calendar, and Alexa for seamless workflow automation. Premium features include reminders, labels, and AI-powered task suggestions.",
+      "features": [
+        "Natural language input",
+        "Priority & due dates",
+        "Team collaboration",
+        "Productivity trends",
+        "300+ app integrations"
+      ],
+      "reviews": [
+        {
+          "user": "busy_professional",
+          "rating": 5,
+          "comment": "The only to-do app that finally stuck with me."
+        }
+      ]
+    },
+    {
+      "id": "app003",
+      "name": "Toggl Track",
+      "subtitle": "Time Management Simplified",
+      "developer": "Toggl OÜ",
+      "thumbnail": "https://cdn.dribbble.com/uploads/63193/original/data?1613132192",
+      "banner": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggl-feature.jpg?q=50&fit=crop&w=1140&h=&dpr=1.5",
+      "downloads": 10000000,
+      "category": "Productivity",
+      "rating": 4.6,
+      "description": "Toggl Track offers effortless time tracking with one-click timers, detailed reports, and insights into productivity patterns. Ideal for freelancers and teams, it helps identify time drains and optimize workflows. Export data to CSV, integrate with 100+ tools, and set billable rates for clients. Offline tracking ensures no time is lost even without internet.",
+      "features": [
+        "One-click time tracking",
+        "Detailed reports & analytics",
+        "Billable hours calculator",
+        "Cross-platform sync",
+        "Pomodoro timer"
+      ],
+      "reviews": [
+        {
+          "user": "freelancer_amy",
+          "rating": 4,
+          "comment": "Tripled my productivity—and my income!"
+        }
+      ]
+    },
+    {
+      "id": "app004",
+      "name": "Forest",
+      "subtitle": "Stay Focused, Be Present",
+      "developer": "Seekrtech",
+      "thumbnail": "https://iconpusher.com/_next/image?url=https%3A%2F%2Fimg.iconpusher.com%2Fcc.forestapp%2F4.57.0.png&w=640&q=75",
+      "banner": "https://assets.benable.com/rec_object_photos/22586703/full_size/27e62dd59a3404193cc4.jpeg",
+      "downloads": 25000000,
+      "category": "Productivity",
+      "rating": 4.8,
+      "description": "Forest combats phone addiction by gamifying focus: plant a virtual tree that grows while you work. If you leave the app, the tree dies. Earn coins to plant real trees worldwide (partnered with Trees for the Future). Includes white noise, customizable focus sessions, and detailed focus history. Perfect for students and remote workers.",
+      "features": [
+        "Focus timer with gamification",
+        "Plant real trees (eco-friendly)",
+        "White noise & ambient sounds",
+        "Team focus challenges",
+        "Usage statistics"
+      ],
+      "reviews": [
+        {
+          "user": "student_2024",
+          "rating": 5,
+          "comment": "Saved my grades—and the planet!"
+        }
+      ]
+    },
+    {
+      "id": "app005",
+      "name": "Evernote",
+      "subtitle": "Remember Everything",
+      "developer": "Bending Spoons",
+      "thumbnail": "https://www.clipartmax.com/png/full/243-2438985_evernote-icon-logo-png-transparent-evernote-app.png",
+      "banner": "https://media.designrush.com/inspiration_images/137001/conversions/_1524519928_531_Untitled-1-desktop.jpg",
+      "downloads": 200000000,
+      "category": "Productivity",
+      "rating": 4.5,
+      "description": "Evernote is a digital notebook for capturing ideas, scanned documents, and web clippings. Organize notes with tags, notebooks, and powerful search (even in PDFs and images). Sync across devices, annotate PDFs, and use templates for meeting notes or habit tracking. Premium adds OCR, offline access, and larger uploads.",
+      "features": [
+        "Notes, scans & web clippings",
+        "PDF annotation",
+        "Document search (OCR)",
+        "Templates & integrations",
+        "Cross-device sync"
+      ],
+      "reviews": [
+        {
+          "user": "organized_mind",
+          "rating": 4,
+          "comment": "My second brain for a decade."
+        }
+      ]
+    },
+    {
+      "id": "app006",
+      "name": "Focus@Will",
+      "subtitle": "Science-Backed Focus Music",
+      "developer": "Focus@Will",
+      "thumbnail": "https://play-lh.googleusercontent.com/vZLP26oUewT05jid8trrTFrQOx1irAFtUnFelJVwf7OtvhOJ4uZU1mEv6cSQykrFenXV",
+      "banner": "https://i.ytimg.com/vi/IT18EdHAf50/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDAKmW1VBtl48Ud5ZOZmlk2dLcFfA",
+      "downloads": 5000000,
+      "category": "Productivity",
+      "rating": 4.4,
+      "description": "Focus@Will uses neuroscience-based music to boost concentration by up to 400%. Choose from channels like cinematic, ambient, or alpha waves tailored to your brain type. Tracks adapt dynamically to maintain focus without distraction. Includes productivity timer, focus analytics, and offline listening.",
+      "features": [
+        "Neuroscience-optimized music",
+        "Personalized focus channels",
+        "Productivity timer",
+        "Offline mode",
+        "Focus duration tracking"
+      ],
+      "reviews": [
+        {
+          "user": "deep_worker",
+          "rating": 5,
+          "comment": "The ONLY music that doesn’t distract me."
+        }
+      ]
+    },
+    {
+      "id": "app007",
+      "name": "TickTick",
+      "subtitle": "To-Do List & Calendar",
+      "developer": "Appest Inc.",
+      "thumbnail": "https://play-lh.googleusercontent.com/JkYolPNuRAlrXEI9vlk-XOid3VFJ0IPjDj2eM_xrriuE3Zu8IX9cuMkI7JOTw1upNxbW",
+      "banner": "https://logos-world.net/wp-content/uploads/2024/11/TickTick-Logo.jpg",
+      "downloads": 20000000,
+      "category": "Productivity",
+      "rating": 4.7,
+      "description": "TickTick merges tasks, reminders, and calendars into one sleek interface. Features include Eisenhower Matrix prioritization, habit tracking, Pomodoro timer, and shared lists. Smart date parsing (e.g., 'every Mon at 9am') and widgets make planning effortless. Syncs with Google Calendar and Siri.",
+      "features": [
+        "Task + calendar view",
+        "Habit tracker",
+        "Pomodoro timer",
+        "Smart reminders",
+        "Shared lists & collaboration"
+      ],
+      "reviews": [
+        {
+          "user": "task_master",
+          "rating": 5,
+          "comment": "Finally, a to-do app that handles my chaotic schedule."
+        }
+      ]
+    },
+    {
+      "id": "app008",
+      "name": "Craft",
+      "subtitle": "Beautiful Document Editor",
+      "developer": "Craft Docs",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIdtUX3QqGNNJylBWva-VOMRgUGTGjV0etrw&s",
+      "banner": "https://devchandra.com/wp-content/uploads/2024/02/craft_og.png",
+      "downloads": 8000000,
+      "category": "Productivity",
+      "rating": 4.8,
+      "description": "Craft blends documents, notes, and wikis with elegant formatting, nested pages, and real-time collaboration. Export to PDF/HTML, publish shareable links, and use @mentions for teamwork. Unique features: cards for organizing ideas, backlinks for knowledge management, and iPad Pencil support for handwritten notes.",
+      "features": [
+        "Nested documents & cards",
+        "Backlinking & knowledge graphs",
+        "Publish/share as website",
+        "iPad Pencil support",
+        "Dark mode & typography focus"
+      ],
+      "reviews": [
+        {
+          "user": "designer_kev",
+          "rating": 5,
+          "comment": "Like Notion, but gorgeous and faster."
+        }
+      ]
+    },
+    {
+      "id": "app009",
+      "name": "Freedom",
+      "subtitle": "Block Distractions",
+      "developer": "Freedom",
+      "thumbnail": "https://img.utdstc.com/icon/621/654/621654e267b2b21da5eab5a329b954ca027eab89a402d098d354b0a28d0b449a:200",
+      "banner": "https://cdn2.freedom.to/images/meta/facebook_v4.png",
+      "downloads": 3000000,
+      "category": "Productivity",
+      "rating": 4.5,
+      "description": "Freedom blocks distracting websites and apps across all devices. Schedule focused sessions, block social media/news sites, and even lock down your entire internet. Sync blocks with teammates for group accountability. Works on Windows, Mac, iOS, and Android with a single subscription.",
+      "features": [
+        "Website & app blocker",
+        "Sync blocks across devices",
+        "Scheduled focus sessions",
+        "Lock Mode (no cheating!)",
+        "Team focus plans"
+      ],
+      "reviews": [
+        {
+          "user": "reformed_scroller",
+          "rating": 5,
+          "comment": "Broke my Twitter addiction in a week."
+        }
+      ]
+    },
+    {
+      "id": "app010",
+      "name": "Obsidian",
+      "subtitle": "Your Second Brain",
+      "developer": "Obsidian",
+      "thumbnail": "https://forum.obsidian.md/uploads/default/original/3X/a/9/a9a34885821fff8941270ccd6e2ca923c83801b2.png",
+      "banner": "https://ph-files.imgix.net/5254fb1e-0422-4aa8-b3ed-a0bc02ab01af.png?auto=format&fit=crop",
+      "downloads": 10000000,
+      "category": "Productivity",
+      "rating": 4.9,
+      "description": "Obsidian is a Markdown-based knowledge base that links notes like a personal Wikipedia. Local storage ensures privacy, while plugins add calendars, Kanban boards, and AI assistance. Ideal for researchers, writers, and developers building a Zettelkasten or digital garden. Sync via paid add-on.",
+      "features": [
+        "Linked notes (graph view)",
+        "100+ community plugins",
+        "Local-first & secure",
+        "Markdown & LaTeX support",
+        "Themes & customization"
+      ],
+      "reviews": [
+        {
+          "user": "knowledge_hoarder",
+          "rating": 5,
+          "comment": "Where all my ideas finally connect."
+        }
+      ]
+    },
+    {
+      "id": "app011",
+      "name": "Spark",
+      "subtitle": "Smart Email Client",
+      "developer": "Readdle",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Spark_App_Logo.svg/1200px-Spark_App_Logo.svg.png?20190407014911",
+      "banner": "https://images.firstpost.com/wp-content/uploads/2019/04/Spark-for-Android-Inbox.jpg",
+      "downloads": 15000000,
+      "category": "Productivity",
+      "rating": 4.7,
+      "description": "Spark revolutionizes email with AI-powered sorting, snooze, and send-later features. Team inboxes, email templates, and integrations with Slack/Google Drive streamline collaboration. Smart Notifications only alert you to important emails. Available on all platforms with E2E encryption.",
+      "features": [
+        "AI email prioritization",
+        "Team email collaboration",
+        "Snooze & schedule emails",
+        "Integration with 1000+ apps",
+        "Secure & private"
+      ],
+      "reviews": [
+        {
+          "user": "email_warrior",
+          "rating": 5,
+          "comment": "Cut my email time in half."
+        }
+      ]
+    },
+    {
+      "id": "app012",
+      "name": "Things 3",
+      "subtitle": "Elegant Task Manager",
+      "developer": "Cultured Code",
+      "thumbnail": "https://cdn.jim-nielsen.com/ios/512/things-3-for-ipad-2018-05-07.png?rf=1024",
+      "banner": "https://cdn.blot.im/blog_3ba4e1dfed36497a98e7466a9c6b5a18/_image_cache/3848b358-c75b-42d8-b339-febbb750d830.png",
+      "downloads": 5000000,
+      "category": "Productivity",
+      "rating": 4.8,
+      "description": "Things 3 combines simplicity with powerful task management. Drag-and-drop projects, headings, and deadlines into a beautiful interface. Features include reminders, calendar integration, and quick-entry keyboard shortcuts. Apple Design Award winner with flawless sync across Apple devices.",
+      "features": [
+        "Projects & areas",
+        "Today + Upcoming views",
+        "Magic Plus button (quick add)",
+        "Apple ecosystem integration",
+        "No subscriptions (one-time purchase)"
+      ],
+      "reviews": [
+        {
+          "user": "apple_fanatic",
+          "rating": 5,
+          "comment": "Worth every penny—the perfect to-do app."
+        }
+      ]
+    },
+    {
+      "id": "app013",
+      "name": "Raycast",
+      "subtitle": "Supercharge Your Mac",
+      "developer": "Raycast",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Mis6gZhK6BzBGOh3-3wxmxXvL3wJOld6bg&s",
+      "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJWBpkwOa640y49WiUAYrv1J02M6p8DeG1zA&s",
+      "downloads": 2000000,
+      "category": "Productivity",
+      "rating": 4.9,
+      "description": "Raycast replaces Spotlight with a lightning-fast launcher for apps, files, and custom scripts. Create AI-powered workflows, control music, manage GitHub issues, and more. Extensions support 1000+ tools. Free for individuals, with team features for businesses.",
+      "features": [
+        "App/file launcher",
+        "Custom scripts & extensions",
+        "Clipboard history",
+        "Window management",
+        "Team snippet sharing"
+      ],
+      "reviews": [
+        {
+          "user": "power_user",
+          "rating": 5,
+          "comment": "I can’t use a Mac without this now."
+        }
+      ]
+    },
+    {
+      "id": "app014",
+      "name": "Bear",
+      "subtitle": "Notes with Style",
+      "developer": "Shiny Frog",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp96YReCXU8RpuEtLk5Ri6ZxvWIgE1cFMdtQ&s",
+      "banner": "https://bear.app/images/website-icons/card.jpg",
+      "downloads": 7000000,
+      "category": "Productivity",
+      "rating": 4.7,
+      "description": "Bear is a minimalist Markdown notes app with focus mode, tags, and export to PDF/DOCX. Themes and typography make writing pleasurable. Pro version adds encryption, cross-note links, and backups. Apple-only (iOS + Mac).",
+      "features": [
+        "Beautiful Markdown editor",
+        "Tag-based organization",
+        "Focus mode",
+        "Export to multiple formats",
+        "Apple Pencil support"
+      ],
+      "reviews": [
+        {
+          "user": "writer_lydia",
+          "rating": 5,
+          "comment": "My go-to for distraction-free writing."
+        }
+      ]
+    },
+    {
+      "id": "app015",
+      "name": "Cron",
+      "subtitle": "Next-Gen Calendar",
+      "developer": "Notion (acquired)",
+      "thumbnail": "https://avatars.githubusercontent.com/u/60413899?s=280&v=4",
+      "banner": "https://media.licdn.com/dms/image/v2/C4D33AQGqtmi6seBCGg/productpage-image_1128_635/productpage-image_1128_635/0/1637593452324/cronhq_cron_calendar_image?e=2147483647&v=beta&t=WaytYkgrEqTa5Ob9akj8wl2IwRg8yUbizt6tqaDJ9Sk",
+      "downloads": 3000000,
+      "category": "Productivity",
+      "rating": 4.8,
+      "description": "Cron is a sleek calendar app with keyboard shortcuts, shared calendars, and meeting scheduling links. Integrates with Google Calendar and Zoom. Unique features: command palette, day/week/month views, and email-based event creation.",
+      "features": [
+        "Command palette navigation",
+        "Shared calendars",
+        "Scheduling links",
+        "Zoom/Google Meet integration",
+        "Keyboard-first design"
+      ],
+      "reviews": [
+        {
+          "user": "meeting_master",
+          "rating": 5,
+          "comment": "Finally, a calendar app that doesn’t suck."
+        }
+      ]
+    },
+    {
+      "id": "app016",
+      "name": "Superhuman",
+      "subtitle": "The Fastest Email Ever",
+      "developer": "Superhuman",
+      "thumbnail": "https://play-lh.googleusercontent.com/N_wXCAfQ8NH-rVoi66-RquDtb0yPstFMzUzDYil-tzGtvdHtzToDh2dyUUxcGZ70YA",
+      "banner": "https://toolfinder.co/api/og?name=Superhuman&blurb=Superhuman%20is%20an%20email%20app%20used%20by%20busy%20professionals%20for%20inbox%20management.&imageSrc=https%3A%2F%2Fimages.toolfinder.co%2Ftools%2F11%2Flogo%2Fsuperhuman-logo.png",
+      "downloads": 1000000,
+      "category": "Productivity",
+      "rating": 4.9,
+      "description": "Superhuman is an elite email client for power users, with AI triage, split-second search, and shortcuts for everything. Undo send, scheduled emails, and read statuses streamline workflow. Invite-only with a steep learning curve but unmatched speed.",
+      "features": [
+        "AI email prioritization",
+        "300+ keyboard shortcuts",
+        "Undo send & scheduled emails",
+        "Instant search",
+        "Team read statuses"
+      ],
+      "reviews": [
+        {
+          "user": "ceo_inbox_zero",
+          "rating": 5,
+          "comment": "Worth the $30/month—saves me 10+ hours weekly."
+        }
+      ]
+    }
+  ]

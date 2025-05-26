@@ -1,0 +1,423 @@
+[
+    {
+      "id": "app001",
+      "name": "Programming Hero",
+      "subtitle": "Learn Coding Step by Step",
+      "developer": "Programming Hero Ltd.",
+      "thumbnail": "https://play-lh.googleusercontent.com/edmBVFMS9fhuZycs2I6jCO7vGxhH434upOADR2e3x5Wi_s6Et4vcFY0gYs0q_B0qFS8=s96-rw",
+      "banner": "https://d3lhjpscbhcyrv.cloudfront.net/thumbnail.png",
+      "downloads": 3500000,
+      "category": "Education",
+      "rating": 4.8,
+      "description": "Programming Hero is a comprehensive coding learning platform that teaches Python, JavaScript, HTML/CSS, and more through interactive lessons. The app features a personalized learning path, real-time coding exercises, and project-based curriculum that helps beginners build practical skills. With its story-based learning approach and coding games, it makes complex concepts easy to understand for absolute beginners.",
+      "features": [
+        "Interactive coding lessons",
+        "Real-world projects",
+        "Gamified learning experience",
+        "Offline coding capability",
+        "Code debugging exercises"
+      ],
+      "reviews": [
+        {
+          "user": "coder_nadia",
+          "rating": 5,
+          "comment": "Best app for beginners! The lessons are super easy to follow and engaging."
+        },
+        {
+          "user": "dev_john",
+          "rating": 4,
+          "comment": "Great content but could use more advanced topics."
+        }
+      ]
+    },
+    {
+      "id": "app002",
+      "name": "PicsArt Photo AI",
+      "subtitle": "Professional Photo Editor",
+      "developer": "Creative Tools Inc.",
+      "thumbnail": "https://play-lh.googleusercontent.com/hexunszQESgaMxZdfuGvYdNnS6fRebRqW5lECqadoqlTL3fbJbLL6NKceHlQ58ALXcE=s96-rw",
+      "banner": "https://www.tipa.com/wp-content/uploads/2023/04/2023-36-1.jpg",
+      "downloads": 12000000,
+      "category": "Photography",
+      "rating": 4.6,
+      "description": "PicsArt Photo AI offers professional-grade photo editing tools in your pocket. With advanced AI-powered filters, layer support, and precision editing tools, you can transform ordinary photos into stunning artworks. The app includes hundreds of presets, selective editing capabilities, and RAW photo support for professional photographers. Batch processing and cloud sync make it perfect for on-the-go editing.",
+      "features": [
+        "AI-powered photo enhancement",
+        "Layer-based editing",
+        "300+ professional filters",
+        "RAW format support",
+        "Selective adjustment tools"
+      ],
+      "reviews": [
+        {
+          "user": "photography_lover",
+          "rating": 5,
+          "comment": "Replaced my desktop editor completely!"
+        }
+      ]
+    },
+    {
+      "id": "app003",
+      "name": "FitTrack Pro",
+      "subtitle": "Your Personal Fitness Coach",
+      "developer": "HealthTech Solutions",
+      "thumbnail": "https://m.media-amazon.com/images/S/abs-image-upload-na/7/AmazonStores/A2EUQ1WTGCTBG2/d85698abf988f3148b49b8b1a7a47d68.w1000.h1000.jpg",
+      "banner": "https://tryfittrack.com/cdn/shop/files/1200x628_FitTrackLinkPreview_V2_00ee7ac4-9a7f-441e-a6f0-3f84cc9fe9d8.jpg?v=1622834806",
+      "downloads": 8500000,
+      "category": "Health & Fitness",
+      "rating": 4.7,
+      "description": "FitTrack Pro is an all-in-one fitness companion that tracks workouts, nutrition, and health metrics. The app features personalized training plans, video workout guides, and integration with wearable devices. Its advanced algorithms adapt to your fitness level and goals, providing real-time feedback during exercises. The nutrition tracker includes a database of over 5 million foods and can generate meal plans based on your dietary preferences.",
+      "features": [
+        "Personalized workout plans",
+        "Comprehensive nutrition tracking",
+        "Wearable device integration",
+        "Progress analytics",
+        "Community challenges"
+      ],
+      "reviews": [
+        {
+          "user": "fitness_guru",
+          "rating": 4,
+          "comment": "Helped me lose 15kg in 3 months!"
+        }
+      ]
+    },
+    {
+      "id": "app004",
+      "name": "SleepWell",
+      "subtitle": "Improve Your Sleep Quality",
+      "developer": "MindBody Apps LLC",
+      "thumbnail": "https://play-lh.googleusercontent.com/yXwwsaCGYeD_ZJPzRDONMat45GiB3aE-V6NC5OR6y3ZmsF9LP5MXiZnaR0OgG6jMB6Gm=w480-h960-rw",
+      "banner": "https://st3.depositphotos.com/2790227/36934/i/450/depositphotos_369341924-stock-photo-text-sleep-well-trendy-lightbox.jpg",
+      "downloads": 5200000,
+      "category": "Health & Fitness",
+      "rating": 4.5,
+      "description": "SleepWell uses scientifically-proven techniques to help you fall asleep faster and improve sleep quality. The app features guided sleep meditations, relaxing soundscapes, sleep tracking, and smart alarms that wake you at the optimal time. Its sleep analysis provides insights into your sleep patterns and offers personalized recommendations. The premium version includes advanced features like sleep stage monitoring and snore detection.",
+      "features": [
+        "Sleep tracking & analysis",
+        "100+ relaxing soundscapes",
+        "Guided sleep meditations",
+        "Smart alarm system",
+        "Sleep improvement program"
+      ],
+      "reviews": [
+        {
+          "user": "insomniac_no_more",
+          "rating": 5,
+          "comment": "Finally sleeping through the night!"
+        }
+      ]
+    },
+    {
+      "id": "app005",
+      "name": "BudgetMaster",
+      "subtitle": "Take Control of Your Finances",
+      "developer": "Finance Tools Corp",
+      "thumbnail": "https://play-lh.googleusercontent.com/tHyAJGz84P_L05Ufq2sLmZBLbQ5MQPgiyhkMWtJsWZXEAm0uerHMLQJJfQqiyaKDG4sZ=w480-h960-rw",
+      "banner": "https://play-lh.googleusercontent.com/aiEVuiaG5Z1iG--9XaqQ8JLSbIPM--CSeBVtfeNId9Y6VHWybo_ciqBUOvCS7BpWiQ=w832-h470-rw",
+      "downloads": 6800000,
+      "category": "Finance",
+      "rating": 4.6,
+      "description": "BudgetMaster is a comprehensive personal finance app that helps you track expenses, create budgets, and achieve financial goals. The app automatically categorizes transactions from linked accounts, provides spending insights, and forecasts cash flow. Advanced features include bill reminders, debt payoff planning, and investment tracking. With bank-level security and multi-device sync, your financial data stays protected and accessible anywhere.",
+      "features": [
+        "Automatic expense tracking",
+        "Customizable budgeting",
+        "Bill payment reminders",
+        "Financial goal tracking",
+        "Multi-account synchronization"
+      ],
+      "reviews": [
+        {
+          "user": "finance_whiz",
+          "rating": 5,
+          "comment": "Saved me thousands with its insights!"
+        }
+      ]
+    },
+    {
+      "id": "app006",
+      "name": "Mondly",
+      "subtitle": "Learn Languages Fast",
+      "developer": "Linguistic Solutions",
+      "thumbnail": "https://play-lh.googleusercontent.com/NxHvlBPW7YXzePNymFXWsy_W3jpL1b37mmK-HG0lPNYv1ZwxzrPQTLkPKRr6cZ__IQ=w480-h960-rw",
+      "banner": "https://play-lh.googleusercontent.com/fS3-IKRK-uiDhfflHFpfaYiCLMPGZ6OoALPndXpkhwDSkSOYQivXxw-1j6GkbhBsw-E=w832-h470-rw",
+      "downloads": 15000000,
+      "category": "Education",
+      "rating": 4.8,
+      "description": "Mondly offers immersive language learning for 25+ languages through interactive lessons, speech recognition, and live tutoring. The app's adaptive learning technology customizes content based on your progress and learning style. Features include real-world conversation practice, cultural insights, and offline learning mode. The premium version unlocks advanced grammar lessons, professional certification preparation, and one-on-one video sessions with native speakers.",
+      "features": [
+        "25+ languages available",
+        "Speech recognition technology",
+        "Live tutoring sessions",
+        "Cultural learning modules",
+        "Offline lesson download"
+      ],
+      "reviews": [
+        {
+          "user": "polyglot_amy",
+          "rating": 5,
+          "comment": "Became conversational in Spanish in 3 months!"
+        }
+      ]
+    },
+    {
+      "id": "app007",
+      "name": "PlantParent",
+      "subtitle": "Keep Your Plants Thriving",
+      "developer": "GreenThumb Apps",
+      "thumbnail": "https://play-lh.googleusercontent.com/4CTDFqtcESrQDI59iUJjAxSeWypQTL4TjgfA0K7kD8oYYDcm-H3V_NPsFmpLDfMJFJYF=w480-h960-rw",
+      "banner": "https://images.vexels.com/media/users/3/333625/raw/6a3d124366ea5955efbf1593b4db4ca8-plant-parent-quote-color-stroke-t-shirt-design.jpg?width=1130",
+      "downloads": 3200000,
+      "category": "Lifestyle",
+      "rating": 4.4,
+      "description": "PlantParent helps you care for your houseplants with personalized care reminders, plant identification, and expert advice. The app features a database of over 10,000 plants with detailed care instructions. Its AI-powered plant doctor can diagnose problems from photos and suggest treatments. Additional features include watering schedules, growth tracking, and a community of plant enthusiasts to share tips and experiences.",
+      "features": [
+        "Plant identification",
+        "Custom care schedules",
+        "AI plant diagnosis",
+        "Growth progress tracking",
+        "Plant care community"
+      ],
+      "reviews": [
+        {
+          "user": "urban_gardener",
+          "rating": 4,
+          "comment": "Saved all my plants from dying!"
+        }
+      ]
+    },
+    {
+      "id": "app008",
+      "name": "Chef GPT",
+      "subtitle": "Cook Like a Professional Chef",
+      "developer": "Culinary Apps Ltd",
+      "thumbnail": "https://play-lh.googleusercontent.com/8Z4tKs9-MyTMQAtG6G9rSZqtXW54UYn_uA9OMRbdp03afuLs4GwlnWIpsAiZRIWjFw=w480-h960-rw",
+      "banner": "https://play-lh.googleusercontent.com/IpwwF_kUt8aZoBHcCrEf_mZnRdAGgTkoWnVOOxRcQ7dtg-tHSs3jSXtOOeKbqw5jIw=w832-h470-rw",
+      "downloads": 7800000,
+      "category": "Food & Drink",
+      "rating": 4.7,
+      "description": "Chef GPT transforms your cooking experience with step-by-step video recipes, meal planning tools, and smart kitchen timer. The app features thousands of chef-created recipes with adjustable portion sizes and dietary filters. Its smart shopping list organizes ingredients by aisle, and the cooking mode keeps your screen on while preventing sleep. Advanced features include wine pairing suggestions, technique videos, and the ability to scan pantry items for recipe suggestions.",
+      "features": [
+        "Step-by-step video recipes",
+        "Smart meal planner",
+        "Interactive shopping lists",
+        "Cooking timer & converter",
+        "Pantry management"
+      ],
+      "reviews": [
+        {
+          "user": "home_chef",
+          "rating": 5,
+          "comment": "Made me confident in the kitchen!"
+        }
+      ]
+    },
+    {
+      "id": "app009",
+      "name": "Expedia",
+      "subtitle": "Your Ultimate Travel Planner",
+      "developer": "Wanderlust Technologies",
+      "thumbnail": "https://play-lh.googleusercontent.com/Q4Cb0RCRsP7fVnubyFjk4yl2jE2B7XN_bzaM9BtBZsGaALVeHRIEIho1aHVUa1kMiVI=w480-h960-rw",
+      "banner": "https://play-lh.googleusercontent.com/N5X4Q-yLIBCwOGBKtz_jVLJsHd0WXTcrUaV2SvpTNLFf03E16NAuAuASxV9Xn_huLqM=w832-h470-rw",
+      "downloads": 9500000,
+      "category": "Travel",
+      "rating": 4.8,
+      "description": "Expedia simplifies trip planning with itinerary creation, real-time flight alerts, and local recommendations. The app aggregates bookings from email confirmations to create a master itinerary with maps and directions. Features include offline access to important documents, currency converter, phrasebook for 50 languages, and safety alerts for your destination. The premium version offers concierge services and premium customer support for travel emergencies.",
+      "features": [
+        "Smart itinerary planner",
+        "Real-time flight alerts",
+        "Local experience recommendations",
+        "Offline document access",
+        "Integrated travel insurance"
+      ],
+      "reviews": [
+        {
+          "user": "globetrotter",
+          "rating": 5,
+          "comment": "Essential for every trip I take!"
+        }
+      ]
+    },
+    {
+      "id": "app010",
+      "name": "MindSpace",
+      "subtitle": "Meditation & Mindfulness",
+      "developer": "Serenity Apps",
+      "thumbnail": "https://play-lh.googleusercontent.com/qo4rQGDCYkmKTavOQZHDdq8fuv7G7e8DTD96uVSW2IB8qYw9QT_eAkyigHkh_SKZDz2a=s96-rw",
+      "banner": "https://i.ytimg.com/vi/sqAt93poPVg/hqdefault.jpg",
+      "downloads": 12500000,
+      "category": "Health & Fitness",
+      "rating": 4.9,
+      "description": "MindSpace offers guided meditations, sleep stories, and mindfulness exercises for stress reduction and mental wellness. The app features programs for anxiety relief, focus improvement, and emotional balance, all created by mental health professionals. Its daily mindfulness reminders and mood tracking help build consistent practice. Advanced features include biometric feedback integration, personalized meditation recommendations, and progress tracking over time.",
+      "features": [
+        "500+ guided meditations",
+        "Sleep stories for adults",
+        "Mood tracking journal",
+        "Personalized recommendations",
+        "Biometric feedback integration"
+      ],
+      "reviews": [
+        {
+          "user": "peace_seeker",
+          "rating": 5,
+          "comment": "Transformed my mental health!"
+        }
+      ]
+    },
+    {
+      "id": "app011",
+      "name": "PuzzleMaster",
+      "subtitle": "Brain Training Games",
+      "developer": "Cognitive Games Inc",
+      "thumbnail": "https://play-lh.googleusercontent.com/x88NAhqkdrP_C5ISdNjLGrP-oXyW15MJt2LJl8x1Gd5-b-IeSAApuFHlXw92FejIGoY=s96-rw",
+      "banner": "https://i.ytimg.com/vi/Mkp7o0o6vi4/hqdefault.jpg",
+      "downloads": 18000000,
+      "category": "Games",
+      "rating": 4.7,
+      "description": "PuzzleMaster offers hundreds of brain-training games designed by neuroscientists to improve memory, attention, and problem-solving skills. The app adapts difficulty based on your performance and provides detailed cognitive assessments. Daily challenges, multiplayer modes, and themed puzzle packs keep the experience fresh. The premium version unlocks advanced training programs and detailed performance analytics over time.",
+      "features": [
+        "Scientifically-designed puzzles",
+        "Adaptive difficulty",
+        "Cognitive performance tracking",
+        "Multiplayer challenges",
+        "Daily brain workouts"
+      ],
+      "reviews": [
+        {
+          "user": "brain_trainer",
+          "rating": 4,
+          "comment": "Can feel my focus improving!"
+        }
+      ]
+    },
+    {
+      "id": "app012",
+      "name": "SkyView",
+      "subtitle": "Explore the Universe",
+      "developer": "Astro Apps LLC",
+      "thumbnail": "https://play-lh.googleusercontent.com/FbT_XWX5IYXQUt2fWug_vEyOdAWORIBe5ipHETfEvL6QVklVRU0NEFUgMeUN6mM73QY=w480-h960-rw",
+      "banner": "https://play-lh.googleusercontent.com/h_kG51BOxrbf7cCzD1VgStaPWDZILpa-PcJf-ppuUSsRzMvPUjWZAF9DchidQxCD4u4=w832-h470-rw",
+      "downloads": 22000000,
+      "category": "Education",
+      "rating": 4.8,
+      "description": "SkyView brings augmented reality astronomy to your device, allowing you to identify stars, constellations, and satellites by pointing your phone at the sky. The app includes detailed information about celestial objects, night sky events calendar, and time travel feature to see sky configurations from any date. Premium features include telescope control compatibility, meteor shower alerts, and educational courses on astronomy.",
+      "features": [
+        "Augmented reality star map",
+        "Constellation identification",
+        "Satellite tracking",
+        "Night sky event calendar",
+        "Time travel simulation"
+      ],
+      "reviews": [
+        {
+          "user": "stargazer",
+          "rating": 5,
+          "comment": "Makes astronomy accessible to everyone!"
+        }
+      ]
+    },
+    {
+      "id": "app013",
+      "name": "GuitarTuna: Tune & Play Guitar",
+      "subtitle": "Learn to Play Music",
+      "developer": "Music Education Tech",
+      "thumbnail": "https://play-lh.googleusercontent.com/fncHoaxMdpJoXVs61jdTSugZDtyPL_gqA2TxcwkKXvr80ixqw-cSgO8Bwq9zltH4CObC=w480-h960-rw",
+      "banner": "https://play-lh.googleusercontent.com/RcR1Kgp4285sUw7TdFFq1wxduTZjyq8H1gsVDtRQorSb67HX6wbjv4YTlwbaOu5RVA=w832-h470-rw",
+      "downloads": 6500000,
+      "category": "Music",
+      "rating": 4.6,
+      "description": "GuitarTuna: Tune & Play Guitar is an interactive music learning app that teaches guitar, piano, and other instruments through gamified lessons. The app listens to you play via microphone and provides real-time feedback on timing and accuracy. Features include a vast song library, personalized lesson plans, and duet mode to play along with virtual teachers. The premium version offers advanced techniques, sheet music generation, and masterclasses from professional musicians.",
+      "features": [
+        "Real-time performance feedback",
+        "1000+ song library",
+        "Personalized learning path",
+        "Duet mode with virtual teachers",
+        "Progress tracking"
+      ],
+      "reviews": [
+        {
+          "user": "aspiring_musician",
+          "rating": 5,
+          "comment": "Went from zero to playing my favorite songs!"
+        }
+      ]
+    },
+    {
+      "id": "app014",
+      "name": "My Fit Month",
+      "subtitle": "No Gym Needed",
+      "developer": "Fitness On The Go",
+      "thumbnail": "https://play-lh.googleusercontent.com/IcwFm3C4W2lQxicr5mk_-npabAfoYM96mMCSGDb4Pe_IRswg-u30eDLcYTPzu0-l3g=w480-h960-rw",
+      "banner": "https://play-lh.googleusercontent.com/yZGmOMdU7IdaIP531VV850nAQxahRvN837yU6ZpMc7Y767lwI9JNy9pCwdFc8KMJ1w=w832-h470-rw",
+      "downloads": 11000000,
+      "category": "Health & Fitness",
+      "rating": 4.7,
+      "description": "My Fit Month provides effective exercise routines that require minimal or no equipment, perfect for home, travel, or outdoor workouts. The app features personalized training programs, HD video demonstrations, and adaptive difficulty based on your fitness level. Special programs target specific goals like weight loss, strength building, or mobility improvement. The community features allow you to join challenges and share progress with friends.",
+      "features": [
+        "Equipment-free workouts",
+        "Personalized training plans",
+        "Adaptive difficulty",
+        "Progress tracking",
+        "Community challenges"
+      ],
+      "reviews": [
+        {
+          "user": "fitness_nomad",
+          "rating": 4,
+          "comment": "Perfect for maintaining routine while traveling!"
+        }
+      ]
+    },
+    {
+      "id": "app015",
+      "name": "KidsLearn",
+      "subtitle": "Educational Games for Kids",
+      "developer": "Child Education Apps",
+      "thumbnail": "https://play-lh.googleusercontent.com/pqCcpFfh2azOIXPAARbDjbxLWOwLxJYJCfFlN0VErg1HNTrXi9vzmR1e0ITCLtDnH_E=w480-h960-rw",
+      "banner": "https://play-lh.googleusercontent.com/2GjLtFNt3yC1jvzdb24scbOj1TdEM8FZomMZm9rgN75RNF4noRrcDRdOcAVy4DFz6A=w832-h470-rw",
+      "downloads": 8500000,
+      "category": "Education",
+      "rating": 4.5,
+      "description": "KidsLearn offers hundreds of educational games and activities for children ages 2-10, covering math, reading, science, and creativity. The app features a child-safe environment with no ads or external links. Adaptive learning technology adjusts content difficulty based on the child's progress. Parent dashboard provides detailed reports on learning milestones and areas needing improvement. The content is developed with child psychologists and education experts.",
+      "features": [
+        "Age-appropriate learning games",
+        "Child-safe environment",
+        "Progress tracking for parents",
+        "Offline play available",
+        "Multiple child profiles"
+      ],
+      "reviews": [
+        {
+          "user": "parent_of_two",
+          "rating": 5,
+          "comment": "My kids love it and are learning so much!"
+        }
+      ]
+    },
+    {
+      "id": "app016",
+      "name": "DailyJournal",
+      "subtitle": "Reflect & Grow Every Day",
+      "developer": "Mindful Apps Co",
+      "thumbnail": "https://play-lh.googleusercontent.com/EtBL8T6mbdAf91XGr7fl5y4B1yRMAetAko8d8e9koleDzxOcd-OfiEaDr3Z8BCGZ6qFl=w480-h960-rw",
+      "banner": "https://play-lh.googleusercontent.com/JZo_gtN21rZhAolLgGftuwJLtlX7VXLpkJfKR7nh1gwPUMesmtKn1YzA6RQqaIWYBPE=w832-h470-rw",
+      "downloads": 4200000,
+      "category": "Lifestyle",
+      "rating": 4.6,
+      "description": "DailyJournal is a guided journaling app that helps cultivate gratitude, self-reflection, and personal growth. The app provides daily prompts, mood tracking, and writing analytics to identify patterns in your thoughts and emotions. Features include password protection, multimedia entries, and export options. The premium version offers specialized journaling courses and therapist-designed prompts for mental health improvement.",
+      "features": [
+        "Guided journal prompts",
+        "Mood & habit tracking",
+        "Writing analytics",
+        "Password protection",
+        "Cloud backup"
+      ],
+      "reviews": [
+        {
+          "user": "journal_lover",
+          "rating": 5,
+          "comment": "Helped me through tough times with its thoughtful prompts."
+        }
+      ]
+    }
+  ]

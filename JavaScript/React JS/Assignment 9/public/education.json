@@ -1,0 +1,369 @@
+[
+  {
+    "id": "app001",
+    "name": "Programming Hero",
+    "subtitle": "Learn Coding Step by Step",
+    "developer": "Programming Hero Ltd.",
+    "thumbnail": "https://play-lh.googleusercontent.com/edmBVFMS9fhuZycs2I6jCO7vGxhH434upOADR2e3x5Wi_s6Et4vcFY0gYs0q_B0qFS8=s96-rw",
+    "banner": "https://d3lhjpscbhcyrv.cloudfront.net/thumbnail.png",
+    "downloads": 3500000,
+    "category": "Education",
+    "rating": 4.8,
+    "description": "Programming Hero is a comprehensive coding learning platform that teaches Python, JavaScript, HTML/CSS, and more through interactive lessons. The app features a personalized learning path, real-time coding exercises, and project-based curriculum that helps beginners build practical skills. With its story-based learning approach and coding games, it makes complex concepts easy to understand for absolute beginners.",
+    "features": [
+      "Interactive coding lessons",
+      "Real-world projects",
+      "Gamified learning experience",
+      "Offline coding capability",
+      "Code debugging exercises"
+    ],
+    "reviews": [
+      {
+        "user": "coder_nadia",
+        "rating": 5,
+        "comment": "Best app for beginners! The lessons are super easy to follow and engaging."
+      },
+      {
+        "user": "dev_john",
+        "rating": 4,
+        "comment": "Great content but could use more advanced topics."
+      }
+    ]
+  },
+    {
+      "id": "app002",
+      "name": "Khan Academy",
+      "subtitle": "Free, world-class education for everyone",
+      "developer": "Khan Academy",
+      "thumbnail": "https://e7.pngegg.com/pngimages/847/994/png-clipart-khan-academy-logo-thumbnail-tech-companies.png",
+      "banner": "https://movingbrands.com/wp-content/uploads/2023/10/MB-Khan-Academy-001-Cover-2000x1126.jpg",
+      "downloads": 100000000,
+      "category": "Education",
+      "rating": 4.7,
+      "description": "Khan Academy is a non-profit educational platform offering free, high-quality courses in math, science, economics, history, and more. Designed for learners of all ages, it provides interactive exercises, instructional videos, and a personalized learning dashboard to help students study at their own pace. With content aligned to global curricula, Khan Academy makes education accessible to anyone, anywhere—whether in a classroom or for self-study.",
+      "features": [
+        "Comprehensive video lessons",
+        "Practice exercises",
+        "Personalized learning dashboard"
+      ],
+      "reviews": [
+        {
+          "user": "learner123",
+          "rating": 5,
+          "comment": "An invaluable resource for students of all ages!"
+        }
+      ]
+    },
+    {
+      "id": "app003",
+      "name": "Duolingo",
+      "subtitle": "Learn languages for free, bite-sized lessons",
+      "developer": "Duolingo Inc.",
+      "thumbnail": "https://i.pinimg.com/736x/dc/3e/88/dc3e880d753a686994a0f16f8ce863bb.jpg",
+      "banner": "https://assets.workingnotworking.com/mjq3zceys96b1k0q95c3i99z64y1",
+      "downloads": 500000000,
+      "category": "Language Learning",
+      "rating": 4.6,
+      "description": "Duolingo revolutionizes language learning with its fun, gamified approach. Offering bite-sized lessons in over 30 languages, the app adapts to your learning style with interactive exercises, speaking practice, and instant feedback. Whether you're a beginner or looking to refine your skills, Duolingo’s scientifically proven methods make mastering a new language engaging and effective. Plus, its playful interface and streaks keep motivation high!",
+      "features": [
+        "Over 30 languages available",
+        "Gamified lessons",
+        "Daily practice reminders"
+      ],
+      "reviews": [
+        {
+          "user": "polyglot99",
+          "rating": 5,
+          "comment": "A fantastic way to start learning a new language!"
+        }
+      ]
+    },
+    {
+      "id": "app004",
+      "name": "Photomath",
+      "subtitle": "Scan. Solve. Learn.",
+      "developer": "Photomath, Inc.",
+      "thumbnail": "https://play-lh.googleusercontent.com/Ma_HEbK1LzEoayR0tE0ZXqLopug69-dPspfCV36zzHOSuC0_i6mu5ulKz1eY7en-UM4=w480-h960-rw",
+      "banner": "https://primetel.com.cy/portal-img/single_post/3/photomath.jpg",
+      "downloads": 220000000,
+      "category": "Mathematics",
+      "rating": 4.8,
+      "description": "Photomath is the ultimate math helper, allowing users to solve problems instantly by scanning printed or handwritten equations with their smartphone camera. Beyond answers, it provides step-by-step explanations, animated tutorials, and multiple solution methods to deepen understanding. Covering arithmetic, algebra, calculus, and more, Photomath is a must-have tool for students, teachers, and parents alike.",
+      "features": [
+        "Instant problem solving",
+        "Step-by-step explanations",
+        "Supports handwriting recognition"
+      ],
+      "reviews": [
+        {
+          "user": "mathwiz",
+          "rating": 5,
+          "comment": "A lifesaver for understanding complex math problems!"
+        }
+      ]
+    },
+    {
+      "id": "app005",
+      "name": "Lingokids",
+      "subtitle": "Playlearning™ for kids aged 2–8",
+      "developer": "Lingokids",
+      "thumbnail": "https://play-lh.googleusercontent.com/ub_D5hkgniVqrlRGnL68Hh0czt2nQdDLZiHFbGxHr69NvpugxRDpbQJMehEhMniuhQ1A=w480-h960-rw",
+      "banner": "https://creator-portal-incoming.imgix.net/production/deliveries/1731058/lingokids/artwork/hero-banner/KEY%20ART%20GRAPHIC_16_9_.jpg?h=350",
+      "downloads": 78000000,
+      "category": "Children's Education",
+      "rating": 4.5,
+      "description": "Lingokids combines play and learning to create a safe, interactive environment for young children. Developed in collaboration with Oxford University Press, the app offers 1,200+ activities covering English, math, science, and life skills. With no ads and offline access, kids can explore games, videos, and songs designed to boost creativity, critical thinking, and bilingualism—all while having fun!",
+      "features": [
+        "Over 1,200 activities",
+        "No ads",
+        "Collaborations with Oxford University Press"
+      ],
+      "reviews": [
+        {
+          "user": "parentof2",
+          "rating": 5,
+          "comment": "My kids love it and are learning so much!"
+        }
+      ]
+    },
+    {
+      "id": "app006",
+      "name": "GeoGebra",
+      "subtitle": "Dynamic mathematics for all levels",
+      "developer": "GeoGebra Team",
+      "thumbnail": "https://play-lh.googleusercontent.com/z8nDolnGI78U0MNpuj9qcQpUCAzVULA4pEu_MChIAEhLLW_GA3HMVBj6o2cxlBQVmcI=w480-h960-rw",
+      "banner": "https://image.winudf.com/v2/image1/b3JnLmdlb2dlYnJhLmFuZHJvaWRfYmFubmVyXzE1NTUwMzM0NzJfMDI1/banner.jpg?fakeurl=1&w=1200",
+      "downloads": 10000000,
+      "category": "Mathematics",
+      "rating": 4.7,
+      "description": "GeoGebra is a powerhouse for exploring mathematics, seamlessly integrating geometry, algebra, spreadsheets, and calculus into a single dynamic platform. Ideal for students and educators, it offers interactive graphing, 3D modeling, and real-time collaboration tools. From elementary school to university level, GeoGebra’s open-source software supports hands-on learning, problem-solving, and STEM innovation across devices.",
+      "features": [
+        "Interactive geometry tools",
+        "Graphing calculator",
+        "Supports multiple platforms"
+      ],
+      "reviews": [
+        {
+          "user": "educator101",
+          "rating": 5,
+          "comment": "An essential tool for teaching math concepts!"
+        }
+      ]
+    },
+    {
+      "id": "app007",
+      "name": "Swift Playgrounds",
+      "subtitle": "Learn to code with Swift on iPad & Mac",
+      "developer": "Apple Inc.",
+      "thumbnail": "https://play-lh.googleusercontent.com/28FsXYJiPHoSbF8uADbn4KVKxSlLvOD-IeMJvxjij5R394r_1Q6ydph8ck3QctIldyZQ=w480-h960-rw",
+      "banner": "https://play-lh.googleusercontent.com/HxHOujm6yUbme8uWwIabCUI3GNaVQNqO0nR55qzNmEz7VME3WuksvaSng1qkgXgokw=w832-h470-rw",
+      "downloads": 5000000,
+      "category": "Programming",
+      "rating": 4.8,
+      "description": "Swift Playgrounds is Apple’s revolutionary app for learning Swift—the powerful programming language used to build iOS apps. Through interactive puzzles and challenges, users master coding basics while controlling robots, drones, and other hardware. With a built-in code editor and real-world project templates, it’s perfect for beginners and aspiring developers to unleash their creativity.",
+      "features": [
+        "Interactive coding lessons",
+        "Supports real-world projects",
+        "Control of hardware like robots and drones"
+      ],
+      "reviews": [
+        {
+          "user": "devintraining",
+          "rating": 5,
+          "comment": "A great starting point for aspiring developers!"
+        }
+      ]
+    },
+    {
+      "id": "app008",
+      "name": "Yousician",
+      "subtitle": "Your personal music tutor",
+      "developer": "Yousician Ltd.",
+      "thumbnail": "https://play-lh.googleusercontent.com/rvGKVcfHwU4_61dfTi75XC3-NoaPERlJ0v_5bGLPdya5HTMTA8pYqep_1PpbZfLj0w=w480-h960-rw",
+      "banner": "https://yousician.com/songs/assets/app-mainplay/app-mainplay@2x.png",
+      "downloads": 25000000,
+      "category": "Music Education",
+      "rating": 4.6,
+      "description": "Yousician transforms music practice into an immersive experience with real-time feedback on guitar, piano, bass, ukulele, or vocals. Its vast library includes step-by-step video tutorials, sheet music, and popular songs across genres. Whether you’re a beginner or advanced musician, Yousician’s adaptive lessons and progress tracking make mastering an instrument enjoyable and rewarding.",
+      "features": [
+        "Real-time feedback",
+        "Step-by-step tutorials",
+        "Wide range of songs and exercises"
+      ],
+      "reviews": [
+        {
+          "user": "musiclover",
+          "rating": 5,
+          "comment": "Learning instruments has never been this engaging!"
+        }
+      ]
+    },
+    {
+      "id": "app009",
+      "name": "Mathspace",
+      "subtitle": "Adaptive math tutoring with step-by-step help",
+      "developer": "Mathspace Pty Ltd.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh7Ooo4CSki5_R-IX4ZR56JVE87h3hUT9tjQ&s",
+      "banner": "https://scontent.fdac34-2.fna.fbcdn.net/v/t39.30808-6/274368044_4749230661791375_6027470460159337479_n.png?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=-FIXIP92Q48Q7kNvwFcBJQ_&_nc_oc=AdnUHvIA24X2WqwxfOEa_chnFReUyc1QvKUpJOLSPIPKixOd5380JJ_8VKkPUbbxMhE&_nc_zt=23&_nc_ht=scontent.fdac34-2.fna&_nc_gid=Ou3cz0Hw4WcrIVLqkcvIYQ&oh=00_AfIQAbZii3yW_9rqTyr3k4OYGPHR5wkODGRINC_So1Zm1Q&oe=681F9A98",
+      "downloads": 1000000,
+      "category": "Mathematics",
+      "rating": 4.5,
+      "description": "Mathspace personalizes math education with adaptive technology that guides students through problems with hints, feedback, and full solutions. Covering arithmetic to calculus, its curriculum-aligned content includes interactive textbooks, video lessons, and analytics for teachers. Ideal for classrooms or self-study, Mathspace builds confidence by tailoring challenges to each learner’s pace and skill level.",
+      "features": [
+        "Personalized learning paths",
+        "Detailed feedback",
+        "Curriculum-aligned content"
+      ],
+      "reviews": [
+        {
+          "user": "studentA",
+          "rating": 5,
+          "comment": "Helped me improve my math grades significantly!"
+        }
+      ]
+    },
+    {
+      "id": "app010",
+      "name": "Simplilearn",
+      "subtitle": "Upskill with industry-leading courses",
+      "developer": "Simplilearn Ltd.",
+      "thumbnail": "https://play-lh.googleusercontent.com/uphrWz_e_K_pZrPOmCR34A6grxPtva0kM8bhMSgdycrlxiBC7C_JzGtyJLn1mfrRLrg=s96-rw",
+      "banner": "https://i.ytimg.com/vi/py_JX8n5ScM/hqdefault.jpg",
+      "downloads": 5000000,
+      "category": "Online Courses",
+      "rating": 4.4,
+      "description": "Simplilearn bridges the gap between learners and career advancement with professional certifications in digital marketing, data science, AI, cloud computing, and more. Partnering with top universities and companies like IBM and Microsoft, courses feature live classes, hands-on projects, and job assistance. Whether upskilling or switching careers, Simplilearn delivers industry-relevant training for the modern workforce.",
+      "features": [
+        "Wide range of subjects",
+        "Interactive learning",
+        "Certificates upon completion"
+      ],
+      "reviews": [
+        {
+          "user": "lifelonglearner",
+          "rating": 5,
+          "comment": "Great platform for expanding knowledge!"
+        }
+      ]
+    },
+    {
+      "id": "app011",
+      "name": "Babbel",
+      "subtitle": "Conversational language learning",
+      "developer": "Babbel GmbH",
+      "thumbnail": "https://play-lh.googleusercontent.com/jeuTW3Jao7nYmuyMoDKhPTH2OLCQmLL3mkpwbXCC952tR2lw_Oa1Uo-tamukDoTWeng=w480-h960-rw",
+      "banner": "https://play-lh.googleusercontent.com/Dnyx2hIoegVvmHz3ZzVTCl45I1PyC0EXcywIFppxbmnEqZxvQKU-OrrumSvT7zqNYA=w526-h296-rw",
+      "downloads": 10000000,
+      "category": "Language Learning",
+      "rating": 4.5,
+      "description": "Babbel focuses on practical language skills through real-life dialogues, speech recognition, and cultural insights. Designed by linguists, its 10–15 minute lessons emphasize grammar, vocabulary, and pronunciation for effective communication. With courses in 14 languages, Babbel is perfect for travelers, professionals, or anyone seeking fluency—offline access ensures learning on the go.",
+      "features": [
+        "Structured courses",
+        "Speech recognition",
+        "Grammar tips and reviews"
+      ],
+      "reviews": [
+        {
+          "user": "traveler101",
+          "rating": 5,
+          "comment": "Helped me converse confidently during my travels!"
+        }
+      ]
+    },
+    {
+      "id": "app012",
+      "name": "MasterClass",
+      "subtitle": "Learn from the world’s best",
+      "developer": "MasterClass Inc.",
+      "thumbnail": "https://play-lh.googleusercontent.com/f9VJeBoXbPy6liy6hID6qv-uKNQ5U4q55FHz3akcdgYSwMmB2GRQwM-5rW2XTQvDdQfN=w480-h960-rw",
+      "banner": "https://play-lh.googleusercontent.com/ynm1hU9Rf9BLxqByEpQe4a207Q36Rot0yWrOxqx2jYMVKuKA_rD2Q4hg-Lihi69lwDlJ=w1052-h592-rw",
+      "downloads": 2000000,
+      "category": "Professional Development",
+      "rating": 4.7,
+      "description": "MasterClass offers unparalleled access to wisdom from icons like Gordon Ramsay, Serena Williams, and Neil deGrasse Tyson. Each class features high-production video lessons, downloadable workbooks, and community activities. Whether mastering cooking, writing, or leadership, subscribers gain inspiration and practical skills from the pinnacle of every field—all in a cinematic, ad-free environment.",
+      "features": [
+        "High-quality video lessons",
+        "Workbooks and assignments",
+        "Access to all classes with subscription"
+      ],
+      "reviews": [
+        {
+          "user": "aspiringchef",
+          "rating": 5,
+          "comment": "Learning from top professionals is truly inspiring!"
+        }
+      ]
+    },
+    {
+      "id": "app013",
+      "name": "Xeropan",
+      "subtitle": "Learn languages through time travel adventures",
+      "developer": "Xeropan International",
+      "thumbnail": "https://play-lh.googleusercontent.com/hxMhnVz5eiinTtuEDUnoR2VgXpT7_j4EtLYp_2bx4MGPs1h9fTrE7o0_cn-jPRTFuw=w480-h960-rw",
+      "banner": "https://apkdone.com/wp-content/uploads/2022/05/Xeropan-poster.jpg",
+      "downloads": 1000000,
+      "category": "Language Learning",
+      "rating": 4.6,
+      "description": "Xeropan gamifies language learning with an epic time-travel storyline where users solve puzzles, converse with characters, and unlock achievements. Its AI adapts to your level, while native speaker videos and grammar drills ensure well-rounded proficiency. Perfect for visual learners, Xeropan turns studying English, Spanish, or German into an immersive adventure.",
+      "features": [
+        "AI-powered learning assistant",
+        "Video lessons from native speakers",
+        "Grammar and vocabulary practice"
+      ],
+      "reviews": [
+        {
+          "user": "englishwarrior",
+          "rating": 5,
+          "comment": "I love the game-like approach to language learning!"
+        }
+      ]
+    },
+    {
+      "id": "app014",
+      "name": "Brilliant",
+      "subtitle": "Build quantitative skills interactively",
+      "developer": "Brilliant.org",
+      "thumbnail": "https://play-lh.googleusercontent.com/DM7xNDj3WrHQHAdxY-fMhTqMbVViBbNsnBFW8QTHsgXRGEnZIASe65pLjIh6_UtIhsg=w480-h960-rw",
+      "banner": "https://play-lh.googleusercontent.com/UA_APXljlenU-O_H9H86Tu1lkE33DpRnU26MMWdSOJP3lVwUbhKgTcSRjPi7Xg6tI4Ws=w832-h470-rw",
+      "downloads": 10000000,
+      "category": "STEM Education",
+      "rating": 4.7,
+      "description": "Brilliant cultivates critical thinking through hands-on courses in math, logic, computer science, and physics. Unlike passive videos, its problem-first approach encourages active learning with interactive puzzles and guided explorations. Designed by MIT and Caltech alumni, Brilliant’s daily challenges and community discussions make complex STEM concepts accessible and exciting for curious minds.",
+      "features": [
+        "Hands-on learning",
+        "Expert-created courses",
+        "Daily challenges"
+      ],
+      "reviews": [
+        {
+          "user": "curious_mind",
+          "rating": 5,
+          "comment": "Excellent for sharpening your thinking and problem-solving skills!"
+        }
+      ]
+    },
+    {
+      "id": "app015",
+      "name": "Udemy",
+      "subtitle": "Learn anything, anywhere",
+      "developer": "Udemy, Inc.",
+      "thumbnail": "https://play-lh.googleusercontent.com/dsCkmJE2Fa8IjyXERAcwc5YeQ8_NvbZ4_OI8LgqyjILpXUfS5YhEcnAMajKPrZI-og=s96-rw",
+      "banner": "https://i.ytimg.com/vi/USfrCc1NhPY/hqdefault.jpg",
+      "downloads": 50000000,
+      "category": "Online Courses",
+      "rating": 4.5,
+      "description": "Udemy democratizes learning with 200,000+ courses across tech, business, arts, and personal development—taught by industry experts and educators. Students enjoy lifetime access to video lectures, quizzes, and projects, with frequent discounts making knowledge affordable. Whether mastering Python, photography, or public speaking, Udemy’s vast library caters to every learner’s goals at their own pace.",
+      "features": [
+        "Wide variety of topics",
+        "Lifetime access to courses",
+        "Certificates of completion"
+      ],
+      "reviews": [
+        {
+          "user": "devstudent",
+          "rating": 5,
+          "comment": "Affordable and comprehensive courses on nearly every subject!"
+        }
+      ]
+    }
+]
