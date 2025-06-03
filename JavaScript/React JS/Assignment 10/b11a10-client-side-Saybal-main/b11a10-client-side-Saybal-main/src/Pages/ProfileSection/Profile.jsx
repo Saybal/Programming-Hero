@@ -89,7 +89,7 @@ const Profile = () => {
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-      <div className="bg-white dark:bg-base-200 shadow-lg rounded-xl p-6 sm:p-10 text-center">
+      <div className="bg-base-200 dark:bg-base-200 shadow-lg rounded-xl p-6 sm:p-10 text-center">
         <div className="flex flex-col items-center">
           <img
             src={photoURL || "https://i.ibb.co/2kR5zq0/default-avatar.png"}
