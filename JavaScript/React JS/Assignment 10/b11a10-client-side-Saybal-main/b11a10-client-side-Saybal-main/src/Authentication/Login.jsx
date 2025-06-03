@@ -8,6 +8,26 @@ import { AuthContext } from "../AuthProvider/AuthProvider";
 const Login = () => {
   const { SignInUser, setUser, SignInGoogle, SignInFacebook } =
     use(AuthContext);
+  
+  
+  const sendUserToDatabase = async (user) => {
+    try {
+      await fetch("https://assignment-10-eight.vercel.app/freelancers", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          name: user.displayName,
+          email: user.email,
+          Bidtasks: [],
+          Bid: 0,
+        }),
+      });
+    } catch (error) {
+      console.error("Database save error:", error);
+    }
+  };
 
   const handlecheckAccount = (e) => {
     e.preventDefault();
@@ -15,9 +35,10 @@ const Login = () => {
     const Password = e.target.password.value;
 
     SignInUser(Email, Password)
-      .then((result) => {
+      .then(async (result) => {
         const user = result.user;
         setUser(user);
+        await sendUserToDatabase(user);
         swal({
           text: "You have successfully signed in",
           icon: "success",
@@ -45,9 +66,10 @@ const Login = () => {
 
   const handleGoogleSignIn = () => {
     SignInGoogle()
-      .then((res) => {
+      .then(async(res) => {
         const user = res.user;
         setUser(user);
+        await sendUserToDatabase(user);
         swal({
           text: "You have successfully signed in",
           icon: "success",
@@ -71,9 +93,10 @@ const Login = () => {
 
   const handleFacebokSignIn = () => {
     SignInFacebook()
-      .then((res) => {
+      .then(async(res) => {
         const user = res.user;
         setUser(user);
+        await sendUserToDatabase(user);
         swal({
           text: "You have successfully signed in",
           icon: "success",
