@@ -20,7 +20,7 @@ const TaskDetails = () => {
   // !TaskDetails fetch
   useEffect(() => {
     setLoading(true);
-    fetch(`http://localhost:3000/addtask/${id}`)
+    fetch(`https://assignment-10-eight.vercel.app/addtask/${id}`)
       .then((res) => res.json())
       .then((data) => {
         console.log(data);
@@ -41,7 +41,7 @@ const TaskDetails = () => {
   // Frelancer data fetch
   useEffect(() => {
     setLoading(true);
-    fetch(`http://localhost:3000/freelancers/${user.email}`)
+    fetch(`https://assignment-10-eight.vercel.app/freelancers/${user.email}`)
       .then((res) => res.json())
       .then((data) => {
         console.log(data);
@@ -63,58 +63,70 @@ const TaskDetails = () => {
   }, [count]);
 
   const handleBid = () => {
-    setCount(1);
-    console.log("Count: ", count);
-
-    const check = freelancertasks.includes(taskdata._id);
-
-    if (check) {
-      Swal.fire({
-        icon: "error",
-        title: "You have already placed a bid!",
-        showConfirmButton: false,
-        timer: 1500,
-      });
-      return;
-    }
-
-    fetch(`http://localhost:3000/freelancers/${user.email}`, {
-      method: "PATCH",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        Bidtasks: [...freelancertasks, taskdata._id],
-      }),
+  const alreadyBid = freelancertasks.includes(taskdata._id);
+  if (alreadyBid) {
+    Swal.fire({
+      icon: "error",
+      title: "You have already placed a bid!",
+      showConfirmButton: false,
+      timer: 1500,
     });
+    return;
+  }
 
-    fetch(`http://localhost:3000/addtask/${id}`, {
-      method: "PATCH",
-      headers: {
-        "Content-Type": "application/json",
-      },
+  // First update freelancer's Bidtasks & Bid count
+  fetch(`https://assignment-10-eight.vercel.app/freelancers/${user.email}`, {
+    method: "PATCH",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      Bidtasks: [...freelancertasks, taskdata._id],
+    }),
+  })
+    .then((res) => res.json())
+    .then((result) => {
+      if (result.modifiedCount > 0) {
+        // Then update the task's bid count
+        return fetch(`https://assignment-10-eight.vercel.app/addtask/${id}`, {
+          method: "PATCH",
+          headers: {
+            "Content-Type": "application/json",
+          },
+        });
+      }
+      throw new Error("Failed to update freelancer");
     })
-      .then((res) => res.json())
-      .then((data) => {
-        console.log(data);
-        if (data.modifiedCount > 0) {
-          Swal.fire({
-            icon: "success",
-            title: "You have placed a bid!",
-            showConfirmButton: false,
-            timer: 1500,
-          });
-        }
-      })
-      .catch((error) => {
+    .then((res) => res.json())
+    .then((taskResult) => {
+      if (taskResult.modifiedCount > 0) {
         Swal.fire({
-          icon: "error",
-          title: error.message || "Something went wrong",
+          icon: "success",
+          title: "You have placed a bid!",
           showConfirmButton: false,
           timer: 1500,
         });
+
+        // Now re-fetch freelancer data to get updated Bid count
+        return fetch(`https://assignment-10-eight.vercel.app/freelancers/${user.email}`);
+      }
+      throw new Error("Failed to update task");
+    })
+    .then((res) => res.json())
+    .then((updatedData) => {
+      setFreelancerData(updatedData);
+      setFreelancerTasks(updatedData[0].Bidtasks);
+    })
+    .catch((error) => {
+      Swal.fire({
+        icon: "error",
+        title: error.message || "Something went wrong",
+        showConfirmButton: false,
+        timer: 1500,
       });
-  };
+    });
+};
+
 
   return (
     <div>
@@ -127,7 +139,7 @@ const TaskDetails = () => {
       )}
 
       {!loading && (
-        <h2 className="text-center text-base-content font-semibold text-sm md:text-xl mt-5"> You bid for <strong className="text-[#1ed61e]">{parseInt(freelancerdata[0].Bid)}</strong> opportunities.</h2>
+        <h2 className="text-center text-base-content font-semibold text-sm md:text-xl mt-5"> You bid for <strong className="text-[#1ed61e]">{freelancerdata[0].Bid}</strong> opportunities.</h2>
       )}
 
       <div className="bg-base-200 p-6 rounded-xl max-w-3xl mx-auto my-10 shadow-lg">
