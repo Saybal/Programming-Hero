@@ -21,7 +21,7 @@ const client = new MongoClient(uri, {
 
 async function run() {
   try {
-    await client.connect();
+    // await client.connect();
     const taskCollection = client.db("FreelancingDB").collection("Addedtask");
     const freelancers = client
       .db("FreelancingDB")
@@ -115,6 +115,7 @@ async function run() {
         $set: {
           title: updatedTask.title,
           category: updatedTask.category,
+          description: updatedTask.description,
           overview: updatedTask.overview,
           deadline: updatedTask.deadline,
           budget: updatedTask.budget,
